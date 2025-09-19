@@ -1,0 +1,50 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 700,
+    "errorCount" : 4,
+    "errorPct" : 0.5714286,
+    "meanResTime" : 218.01714285714277,
+    "medianResTime" : 220.0,
+    "minResTime" : 52.0,
+    "maxResTime" : 1234.0,
+    "pct1ResTime" : 399.79999999999995,
+    "pct2ResTime" : 494.94999999999993,
+    "pct3ResTime" : 607.9200000000001,
+    "throughput" : 33.51366878919902,
+    "receivedKBytesPerSec" : 1673.3541740227174,
+    "sentKBytesPerSec" : 6.071219912505386
+  },
+  "Forecast" : {
+    "transaction" : "Forecast",
+    "sampleCount" : 280,
+    "errorCount" : 2,
+    "errorPct" : 0.71428573,
+    "meanResTime" : 299.29285714285703,
+    "medianResTime" : 271.0,
+    "minResTime" : 75.0,
+    "maxResTime" : 1234.0,
+    "pct1ResTime" : 508.40000000000003,
+    "pct2ResTime" : 558.8,
+    "pct3ResTime" : 985.71,
+    "throughput" : 13.442796101589131,
+    "receivedKBytesPerSec" : 1648.4816654364108,
+    "sentKBytesPerSec" : 2.497644510058092
+  },
+  "Current Weather" : {
+    "transaction" : "Current Weather",
+    "sampleCount" : 420,
+    "errorCount" : 2,
+    "errorPct" : 0.47619048,
+    "meanResTime" : 163.83333333333323,
+    "medianResTime" : 192.0,
+    "minResTime" : 52.0,
+    "maxResTime" : 1083.0,
+    "pct1ResTime" : 258.90000000000003,
+    "pct2ResTime" : 353.95,
+    "pct3ResTime" : 435.8100000000008,
+    "throughput" : 20.108201273519416,
+    "receivedKBytesPerSec" : 29.45008969394839,
+    "sentKBytesPerSec" : 3.58051097871882
+  }
+}

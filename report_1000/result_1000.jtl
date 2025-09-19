@@ -1,0 +1,1031 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1758305206695,1005,Forecast,200,OK,Thread Group WeatherAPI 1-2,text,true,,125055,193,8,8,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Afghanistan&days=7,837,0,690
+1758305207711,122,Forecast,200,OK,Thread Group WeatherAPI 1-2,text,true,,125931,189,8,8,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Armenia&days=7,64,0,0
+1758305207500,375,Forecast,200,OK,Thread Group WeatherAPI 1-7,text,true,,127877,201,8,8,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Antigua+and+Barbuda&days=7,256,0,144
+1758305207500,439,Forecast,200,OK,Thread Group WeatherAPI 1-4,text,true,,126020,189,9,9,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Algeria&days=7,313,0,209
+1758305207896,344,Forecast,200,OK,Thread Group WeatherAPI 1-9,text,true,,126553,192,10,10,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Azerbaijan&days=7,227,0,121
+1758305208097,418,Forecast,200,OK,Thread Group WeatherAPI 1-10,text,true,,125870,189,12,12,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Bahrain&days=7,238,0,126
+1758305208494,360,Forecast,200,OK,Thread Group WeatherAPI 1-12,text,true,,125729,189,13,13,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Belarus&days=7,241,0,123
+1758305208843,69,Current Weather,200,OK,Thread Group WeatherAPI 1-4,text,true,,1519,181,14,14,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Bahamas,69,0,0
+1758305208242,182,Current Weather,200,OK,Thread Group WeatherAPI 1-8,text,true,,1570,183,11,11,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Argentina,182,0,123
+1758305208516,55,Current Weather,200,OK,Thread Group WeatherAPI 1-10,text,true,,1489,181,12,12,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Belgium,55,0,0
+1758305206695,1294,Current Weather,200,OK,Thread Group WeatherAPI 1-1,text,true,,1555,181,9,9,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=country,1294,0,1238
+1758305207507,195,Current Weather,200,OK,Thread Group WeatherAPI 1-3,text,true,,1483,181,8,8,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Albania,195,0,137
+1758305208241,56,Current Weather,200,OK,Thread Group WeatherAPI 1-9,text,true,,1487,184,11,11,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Bangladesh,56,0,0
+1758305207835,57,Current Weather,200,OK,Thread Group WeatherAPI 1-2,text,true,,1521,183,8,8,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Australia,57,0,0
+1758305207105,365,Current Weather,200,OK,Thread Group WeatherAPI 1-5,text,true,,1499,181,6,6,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Andorra,363,0,281
+1758305208844,199,Current Weather,200,OK,Thread Group WeatherAPI 1-6,text,true,,1489,180,14,14,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Angola,199,0,137
+1758305208691,366,Forecast,200,OK,Thread Group WeatherAPI 1-13,text,true,,126397,188,14,14,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Belize&days=7,245,0,121
+1758305208964,94,Forecast,200,OK,Thread Group WeatherAPI 1-2,text,true,,125540,189,14,14,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Burundi&days=7,73,0,0
+1758305208963,104,Forecast,200,OK,Thread Group WeatherAPI 1-4,text,true,,124990,190,14,14,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Bulgaria&days=7,76,0,0
+1758305209046,65,Current Weather,200,OK,Thread Group WeatherAPI 1-6,text,true,,1511,184,15,15,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Cabo+Verde,65,0,0
+1758305209059,78,Forecast,200,OK,Thread Group WeatherAPI 1-2,text,true,,126619,190,15,15,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Cameroon&days=7,57,0,0
+1758305209138,60,Current Weather,200,OK,Thread Group WeatherAPI 1-2,text,true,,1517,179,15,15,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Chile,60,0,0
+1758305208963,256,Forecast,200,OK,Thread Group WeatherAPI 1-8,text,true,,125815,189,15,15,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Bolivia&days=7,84,0,0
+1758305208963,364,Forecast,200,OK,Thread Group WeatherAPI 1-5,text,true,,125971,190,16,16,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Botswana&days=7,90,0,0
+1758305209200,134,Forecast,200,OK,Thread Group WeatherAPI 1-2,text,true,,125437,187,16,16,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=China&days=7,68,0,0
+1758305209328,57,Current Weather,200,OK,Thread Group WeatherAPI 1-5,text,true,,1505,179,16,16,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Congo,57,0,0
+1758305209088,384,Forecast,200,OK,Thread Group WeatherAPI 1-15,text,true,,126371,206,16,16,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Central+African+Republic&days=7,254,0,120
+1758305209388,100,Forecast,200,OK,Thread Group WeatherAPI 1-5,text,true,,126568,192,17,17,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Costa+Rica&days=7,67,0,0
+1758305209473,64,Current Weather,200,OK,Thread Group WeatherAPI 1-15,text,true,,1526,189,17,17,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Cote+d%27Ivoire,64,0,0
+1758305209539,92,Current Weather,200,OK,Thread Group WeatherAPI 1-15,text,true,,1484,180,17,17,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Cyprus,92,0,0
+1758305209286,364,Forecast,200,OK,Thread Group WeatherAPI 1-16,text,true,,127296,189,17,17,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Comoros&days=7,232,0,119
+1758305209634,105,Forecast,200,OK,Thread Group WeatherAPI 1-15,text,true,,125951,196,18,18,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Czech+Republic&days=7,68,0,0
+1758305209740,75,Current Weather,200,OK,Thread Group WeatherAPI 1-15,text,true,,1528,182,18,18,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Dominica,75,0,0
+1758305209817,135,Current Weather,200,OK,Thread Group WeatherAPI 1-15,text,true,,1549,192,19,19,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Dominican+Republic,135,0,0
+1758305209954,54,Current Weather,200,OK,Thread Group WeatherAPI 1-15,text,true,,1491,179,19,19,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Egypt,54,0,0
+1758305209485,590,Forecast,200,OK,Thread Group WeatherAPI 1-17,text,true,,125594,189,19,19,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Croatia&days=7,398,0,241
+1758305209684,438,Forecast,200,OK,Thread Group WeatherAPI 1-18,text,true,,126423,190,20,20,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Djibouti&days=7,255,0,136
+1758305210076,58,Current Weather,200,OK,Thread Group WeatherAPI 1-17,text,true,,1505,191,20,20,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Equatorial+Guinea,58,0,0
+1758305210011,172,Forecast,200,OK,Thread Group WeatherAPI 1-15,text,true,,126521,193,20,20,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=El+Salvador&days=7,122,0,0
+1758305210123,112,Forecast,200,OK,Thread Group WeatherAPI 1-18,text,true,,126847,189,20,20,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Estonia&days=7,63,0,0
+1758305210184,90,Forecast,200,OK,Thread Group WeatherAPI 1-15,text,true,,127563,190,20,20,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Ethiopia&days=7,58,0,0
+1758305210236,58,Current Weather,200,OK,Thread Group WeatherAPI 1-18,text,true,,1497,178,21,21,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Fiji,58,0,0
+1758305210136,212,Current Weather,400,Bad Request,Thread Group WeatherAPI 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",711,182,21,21,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Eswatini,212,0,0
+1758305209883,524,Forecast,200,OK,Thread Group WeatherAPI 1-19,text,true,,127019,189,21,21,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Ecuador&days=7,251,0,118
+1758305210408,62,Current Weather,200,OK,Thread Group WeatherAPI 1-19,text,true,,1504,181,21,21,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Georgia,62,0,0
+1758305210408,62,Current Weather,200,OK,Thread Group WeatherAPI 1-6,text,true,,1491,178,21,21,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Chad,62,0,0
+1758305210351,131,Forecast,200,OK,Thread Group WeatherAPI 1-17,text,true,,127839,188,22,22,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Gambia&days=7,61,0,0
+1758305210483,87,Forecast,200,OK,Thread Group WeatherAPI 1-17,text,true,,127903,189,22,22,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Grenada&days=7,61,0,0
+1758305210281,362,Forecast,200,OK,Thread Group WeatherAPI 1-21,text,true,,126616,188,22,22,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=France&days=7,234,0,119
+1758305210571,72,Current Weather,200,OK,Thread Group WeatherAPI 1-17,text,true,,1522,183,22,22,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Guatemala,72,0,0
+1758305210644,59,Current Weather,200,OK,Thread Group WeatherAPI 1-21,text,true,,1518,180,23,23,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Guinea,59,0,0
+1758305210645,85,Forecast,200,OK,Thread Group WeatherAPI 1-17,text,true,,127522,195,23,23,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Guinea-Bissau&days=7,62,0,0
+1758305210473,294,Forecast,200,OK,Thread Group WeatherAPI 1-19,text,true,,127917,187,23,23,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Ghana&days=7,90,0,0
+1758305210731,75,Current Weather,200,OK,Thread Group WeatherAPI 1-17,text,true,,1529,182,23,23,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Honduras,75,0,0
+1758305210706,103,Forecast,200,OK,Thread Group WeatherAPI 1-21,text,true,,126917,187,23,23,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Haiti&days=7,60,0,0
+1758305210810,68,Current Weather,200,OK,Thread Group WeatherAPI 1-21,text,true,,1474,179,24,24,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=India,68,0,0
+1758305210808,99,Forecast,200,OK,Thread Group WeatherAPI 1-17,text,true,,126554,189,24,24,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Iceland&days=7,70,0,0
+1758305210908,61,Current Weather,200,OK,Thread Group WeatherAPI 1-17,text,true,,1481,178,24,24,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Iraq,60,0,0
+1758305211276,58,Current Weather,200,OK,Thread Group WeatherAPI 1-16,text,true,,1496,181,25,25,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Denmark,58,0,0
+1758305211276,58,Current Weather,200,OK,Thread Group WeatherAPI 1-10,text,true,,1487,196,25,25,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Bosnia+and+Herzegovina,58,0,0
+1758305211276,61,Current Weather,200,OK,Thread Group WeatherAPI 1-1,text,true,,1530,180,25,25,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Brazil,58,0,0
+1758305211336,56,Current Weather,200,OK,Thread Group WeatherAPI 1-16,text,true,,1482,179,25,25,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Japan,56,0,0
+1758305211077,344,Forecast,200,OK,Thread Group WeatherAPI 1-25,text,true,,125552,189,25,25,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Ireland&days=7,189,0,123
+1758305211277,172,Current Weather,200,OK,Thread Group WeatherAPI 1-26,text,true,,1472,179,25,25,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Italy,172,0,117
+1758305211423,55,Current Weather,200,OK,Thread Group WeatherAPI 1-25,text,true,,1489,179,26,26,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Kenya,55,0,0
+1758305210877,613,Forecast,200,OK,Thread Group WeatherAPI 1-24,text,true,,126733,191,26,26,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Indonesia&days=7,441,0,337
+1758305211336,158,Forecast,200,OK,Thread Group WeatherAPI 1-10,text,true,,126188,189,26,26,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Jamaica&days=7,62,0,0
+1758305211494,54,Current Weather,200,OK,Thread Group WeatherAPI 1-10,text,true,,1500,178,26,26,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Laos,54,0,0
+1758305211395,170,Forecast,200,OK,Thread Group WeatherAPI 1-16,text,true,,126296,192,26,26,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Kazakhstan&days=7,72,0,0
+1758305211491,94,Forecast,200,OK,Thread Group WeatherAPI 1-24,text,true,,125511,192,26,26,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Kyrgyzstan&days=7,63,0,0
+1758305211550,87,Forecast,200,OK,Thread Group WeatherAPI 1-10,text,true,,126608,188,26,26,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Latvia&days=7,57,0,0
+1758305211566,76,Current Weather,200,OK,Thread Group WeatherAPI 1-16,text,true,,1480,181,26,26,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Lebanon,76,0,0
+1758305211452,235,Forecast,200,OK,Thread Group WeatherAPI 1-26,text,true,,126584,190,27,27,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Kiribati&days=7,89,0,0
+1758305211644,58,Current Weather,200,OK,Thread Group WeatherAPI 1-16,text,true,,1486,179,27,27,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Libya,55,0,0
+1758305211638,87,Forecast,200,OK,Thread Group WeatherAPI 1-10,text,true,,128373,189,27,27,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Liberia&days=7,64,0,0
+1758305211726,83,Forecast,200,OK,Thread Group WeatherAPI 1-10,text,true,,125764,192,27,27,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Madagascar&days=7,59,0,0
+1758305211810,58,Current Weather,200,OK,Thread Group WeatherAPI 1-10,text,true,,1490,180,27,27,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Malawi,58,0,0
+1758305211810,65,Current Weather,200,OK,Thread Group WeatherAPI 1-15,text,true,,1513,181,28,28,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Finland,65,0,0
+1758305211871,106,Forecast,200,OK,Thread Group WeatherAPI 1-10,text,true,,127086,190,27,27,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Malaysia&days=7,80,0,0
+1758305211676,376,Forecast,200,OK,Thread Group WeatherAPI 1-28,text,true,,125112,195,26,26,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Liechtenstein&days=7,206,0,123
+1758305212053,56,Current Weather,200,OK,Thread Group WeatherAPI 1-28,text,true,,1510,178,27,27,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Mali,56,0,0
+1758305212111,57,Current Weather,200,OK,Thread Group WeatherAPI 1-28,text,true,,1492,190,27,27,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Marshall+Islands,57,0,0
+1758305212170,110,Forecast,200,OK,Thread Group WeatherAPI 1-28,text,true,,126585,192,28,28,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Mauritania&days=7,65,0,0
+1758305212276,60,Current Weather,200,OK,Thread Group WeatherAPI 1-8,text,true,,1514,182,28,28,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Colombia,60,0,0
+1758305212079,350,Forecast,200,OK,Thread Group WeatherAPI 1-30,text,true,,125627,187,28,28,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Malta&days=7,241,0,122
+1758305212338,109,Forecast,200,OK,Thread Group WeatherAPI 1-8,text,true,,127759,192,28,28,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Micronesia&days=7,65,0,0
+1758305212277,178,Current Weather,200,OK,Thread Group WeatherAPI 1-22,text,true,,1481,180,28,28,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Greece,178,0,119
+1758305212277,178,Current Weather,200,OK,Thread Group WeatherAPI 1-31,text,true,,1505,183,28,28,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Mauritius,178,0,119
+1758305212430,62,Current Weather,200,OK,Thread Group WeatherAPI 1-30,text,true,,1496,181,29,29,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Moldova,62,0,0
+1758305212448,77,Forecast,200,OK,Thread Group WeatherAPI 1-8,text,true,,125749,188,29,29,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Monaco&days=7,65,0,0
+1758305212495,54,Current Weather,200,OK,Thread Group WeatherAPI 1-30,text,true,,1499,184,29,29,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Mozambique,54,0,0
+1758305212526,75,Forecast,200,OK,Thread Group WeatherAPI 1-8,text,true,,127992,189,29,29,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Myanmar&days=7,57,0,0
+1758305212431,177,Current Weather,200,OK,Thread Group WeatherAPI 1-23,text,true,,1536,180,29,29,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Guyana,176,0,122
+1758305212552,55,Current Weather,200,OK,Thread Group WeatherAPI 1-30,text,true,,1499,181,29,29,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Namibia,55,0,0
+1758305212602,55,Current Weather,200,OK,Thread Group WeatherAPI 1-8,text,true,,1484,179,29,29,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Nauru,55,0,0
+1758305212659,73,Forecast,200,OK,Thread Group WeatherAPI 1-8,text,true,,127238,193,30,30,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=New+Zealand&days=7,59,0,0
+1758305212476,344,Forecast,200,OK,Thread Group WeatherAPI 1-32,text,true,,126061,189,30,30,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Morocco&days=7,220,0,117
+1758305212610,213,Forecast,200,OK,Thread Group WeatherAPI 1-23,text,true,,127030,193,30,30,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Netherlands&days=7,75,0,0
+1758305212675,174,Current Weather,200,OK,Thread Group WeatherAPI 1-33,text,true,,1513,183,30,30,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Nicaragua,174,0,120
+1758305212797,57,Current Weather,200,OK,Thread Group WeatherAPI 1-9,text,true,,1524,186,30,30,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Burkina+Faso,56,0,0
+1758305212824,72,Current Weather,200,OK,Thread Group WeatherAPI 1-23,text,true,,1496,185,31,31,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=North+Korea,72,0,0
+1758305212821,93,Forecast,200,OK,Thread Group WeatherAPI 1-32,text,true,,127249,189,31,31,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Nigeria&days=7,59,0,0
+1758305212875,179,Current Weather,200,OK,Thread Group WeatherAPI 1-34,text,true,,1479,178,31,31,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Oman,179,0,113
+1758305212851,251,Forecast,200,OK,Thread Group WeatherAPI 1-33,text,true,,126343,197,32,32,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=North+Macedonia&days=7,77,0,0
+1758305212898,207,Forecast,200,OK,Thread Group WeatherAPI 1-23,text,true,,125667,190,32,32,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Pakistan&days=7,60,0,0
+1758305213106,91,Forecast,200,OK,Thread Group WeatherAPI 1-23,text,true,,125837,190,32,32,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Paraguay&days=7,57,0,0
+1758305213076,172,Current Weather,200,OK,Thread Group WeatherAPI 1-35,text,true,,1517,180,32,32,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Panama,171,0,115
+1758305213076,172,Current Weather,200,OK,Thread Group WeatherAPI 1-27,text,true,,1496,180,32,32,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Kosovo,171,0,115
+1758305213198,58,Current Weather,200,OK,Thread Group WeatherAPI 1-23,text,true,,1499,178,32,32,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Peru,58,0,0
+1758305213250,63,Current Weather,200,OK,Thread Group WeatherAPI 1-27,text,true,,1473,180,33,33,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Poland,63,0,0
+1758305213056,274,Forecast,200,OK,Thread Group WeatherAPI 1-34,text,true,,125617,191,33,33,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Palestine&days=7,78,0,0
+1758305213199,175,Current Weather,200,OK,Thread Group WeatherAPI 1-20,text,true,,1475,181,33,33,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Eritrea,175,0,117
+1758305213315,59,Current Weather,200,OK,Thread Group WeatherAPI 1-27,text,true,,1487,181,33,33,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Romania,58,0,0
+1758305213331,95,Forecast,200,OK,Thread Group WeatherAPI 1-34,text,true,,126404,188,33,33,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Russia&days=7,61,0,0
+1758305213427,92,Forecast,200,OK,Thread Group WeatherAPI 1-34,text,true,,128036,193,34,34,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Saint+Lucia&days=7,61,0,0
+1758305213250,275,Forecast,200,OK,Thread Group WeatherAPI 1-35,text,true,,128546,193,34,34,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Philippines&days=7,80,0,0
+1758305213475,54,Current Weather,200,OK,Thread Group WeatherAPI 1-16,text,true,,1498,184,34,34,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Luxembourg,54,0,0
+1758305213526,61,Current Weather,200,OK,Thread Group WeatherAPI 1-35,text,true,,1494,184,34,34,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=San+Marino,61,0,0
+1758305213276,328,Forecast,200,OK,Thread Group WeatherAPI 1-36,text,true,,125902,187,34,34,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Qatar&days=7,221,0,114
+1758305213520,84,Forecast,200,OK,Thread Group WeatherAPI 1-34,text,true,,128215,187,34,34,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Samoa&days=7,67,0,0
+1758305213476,172,Current Weather,200,OK,Thread Group WeatherAPI 1-37,text,true,,1557,206,34,34,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Saint+Vincent+and+the+Grenadines,172,0,116
+1758305213650,54,Current Weather,200,OK,Thread Group WeatherAPI 1-37,text,true,,1507,184,35,35,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Seychelles,54,0,0
+1758305213589,118,Forecast,200,OK,Thread Group WeatherAPI 1-35,text,true,,125448,194,35,35,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Saudi+Arabia&days=7,60,0,0
+1758305213376,367,Current Weather,200,OK,Thread Group WeatherAPI 1-20,text,true,,1488,180,35,35,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Rwanda,57,0,0
+1758305213708,62,Current Weather,200,OK,Thread Group WeatherAPI 1-35,text,true,,1493,182,35,35,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Slovakia,62,0,0
+1758305213605,167,Forecast,200,OK,Thread Group WeatherAPI 1-34,text,true,,127608,189,35,35,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Senegal&days=7,68,0,0
+1758305213772,55,Current Weather,200,OK,Thread Group WeatherAPI 1-35,text,true,,1506,189,35,35,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Solomon+Islands,55,0,0
+1758305213706,219,Forecast,200,OK,Thread Group WeatherAPI 1-37,text,true,,126920,191,36,36,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Singapore&days=7,78,0,0
+1758305213874,59,Current Weather,200,OK,Thread Group WeatherAPI 1-2,text,true,,1505,179,36,36,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Congo,59,0,0
+1758305213829,142,Forecast,200,OK,Thread Group WeatherAPI 1-35,text,true,,125726,194,36,36,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=South+Africa&days=7,59,0,0
+1758305213605,376,Current Weather,200,OK,Thread Group WeatherAPI 1-36,text,true,,1492,180,36,36,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Serbia,61,0,0
+1758305213936,52,Current Weather,200,OK,Thread Group WeatherAPI 1-2,text,true,,1511,179,36,36,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Spain,52,0,0
+1758305213875,169,Current Weather,200,OK,Thread Group WeatherAPI 1-39,text,true,,1483,185,36,36,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=South+Korea,169,0,116
+1758305213990,54,Current Weather,200,OK,Thread Group WeatherAPI 1-2,text,true,,1524,182,36,36,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Suriname,54,0,0
+1758305213927,122,Forecast,200,OK,Thread Group WeatherAPI 1-37,text,true,,126592,193,35,35,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=South+Sudan&days=7,121,0,0
+1758305214050,60,Current Weather,200,OK,Thread Group WeatherAPI 1-37,text,true,,1475,185,36,36,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Switzerland,60,0,0
+1758305213982,136,Forecast,200,OK,Thread Group WeatherAPI 1-36,text,true,,126489,187,36,36,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Sudan&days=7,66,0,0
+1758305214118,58,Current Weather,200,OK,Thread Group WeatherAPI 1-36,text,true,,1481,184,36,36,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Tajikistan,58,0,0
+1758305214076,178,Current Weather,200,OK,Thread Group WeatherAPI 1-40,text,true,,1482,179,36,36,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Syria,178,0,115
+1758305214112,145,Forecast,200,OK,Thread Group WeatherAPI 1-37,text,true,,126945,188,36,36,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Taiwan&days=7,136,0,0
+1758305214178,106,Forecast,200,OK,Thread Group WeatherAPI 1-36,text,true,,125564,190,37,37,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Tanzania&days=7,76,0,0
+1758305214046,265,Forecast,200,OK,Thread Group WeatherAPI 1-39,text,true,,125633,188,37,37,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Sweden&days=7,134,0,0
+1758305214256,55,Current Weather,200,OK,Thread Group WeatherAPI 1-40,text,true,,1497,182,37,37,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Thailand,55,0,0
+1758305214256,55,Current Weather,200,OK,Thread Group WeatherAPI 1-5,text,true,,1524,178,37,37,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Cuba,55,0,0
+1758305214256,58,Current Weather,200,OK,Thread Group WeatherAPI 1-8,text,true,,1508,179,37,37,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Niger,58,0,0
+1758305213745,573,Forecast,200,OK,Thread Group WeatherAPI 1-20,text,true,,125624,190,37,37,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Slovenia&days=7,76,0,0
+1758305214313,55,Current Weather,200,OK,Thread Group WeatherAPI 1-40,text,true,,1477,181,37,37,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Tunisia,53,0,0
+1758305214316,77,Forecast,200,OK,Thread Group WeatherAPI 1-8,text,true,,125484,194,37,37,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Turkmenistan&days=7,56,0,0
+1758305214475,59,Current Weather,200,OK,Thread Group WeatherAPI 1-7,text,true,,1476,181,37,37,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Austria,59,0,0
+1758305214475,68,Current Weather,200,OK,Thread Group WeatherAPI 1-9,text,true,,1480,180,37,37,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Norway,68,0,0
+1758305214370,209,Forecast,200,OK,Thread Group WeatherAPI 1-40,text,true,,125852,188,37,37,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Uganda&days=7,92,0,0
+1758305214537,53,Current Weather,200,OK,Thread Group WeatherAPI 1-7,text,true,,1498,194,37,37,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=United+Arab+Emirates,53,0,0
+1758305214580,56,Current Weather,200,OK,Thread Group WeatherAPI 1-40,text,true,,1526,187,37,37,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=United+States,56,0,0
+1758305214476,172,Current Weather,200,OK,Thread Group WeatherAPI 1-42,text,true,,1489,181,37,37,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Ukraine,172,0,117
+1758305214638,56,Current Weather,200,OK,Thread Group WeatherAPI 1-40,text,true,,1491,184,38,38,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Uzbekistan,56,0,0
+1758305214312,413,Forecast,200,OK,Thread Group WeatherAPI 1-39,text,true,,126970,201,38,38,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Trinidad+and+Tobago&days=7,57,0,0
+1758305214592,150,Forecast,200,OK,Thread Group WeatherAPI 1-7,text,true,,126901,189,38,38,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Uruguay&days=7,122,0,0
+1758305214276,471,Forecast,200,OK,Thread Group WeatherAPI 1-41,text,true,,127813,186,38,38,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Togo&days=7,289,0,182
+1758305214545,202,Forecast,200,OK,Thread Group WeatherAPI 1-9,text,true,,127127,196,38,38,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=United+Kingdom&days=7,127,0,0
+1758305214696,54,Current Weather,200,OK,Thread Group WeatherAPI 1-40,text,true,,1527,183,38,38,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Venezuela,54,0,0
+1758305214743,52,Current Weather,200,OK,Thread Group WeatherAPI 1-7,text,true,,1475,179,38,38,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Yemen,52,0,0
+1758305214726,72,Forecast,200,OK,Thread Group WeatherAPI 1-39,text,true,,127175,189,38,38,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Vietnam&days=7,60,0,0
+1758305214755,54,Current Weather,200,OK,Thread Group WeatherAPI 1-40,text,true,,1555,181,38,38,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=country,54,0,0
+1758305214748,99,Forecast,200,OK,Thread Group WeatherAPI 1-9,text,true,,125387,190,38,38,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Zimbabwe&days=7,58,0,0
+1758305214810,58,Current Weather,200,OK,Thread Group WeatherAPI 1-40,text,true,,1494,181,38,38,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Algeria,58,0,0
+1758305214797,80,Forecast,200,OK,Thread Group WeatherAPI 1-7,text,true,,125047,193,39,39,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Afghanistan&days=7,56,0,0
+1758305214870,55,Current Weather,200,OK,Thread Group WeatherAPI 1-40,text,true,,1489,180,39,39,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Angola,55,0,0
+1758305214848,147,Forecast,200,OK,Thread Group WeatherAPI 1-9,text,true,,126037,189,38,38,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Andorra&days=7,121,0,0
+1758305214676,372,Forecast,200,OK,Thread Group WeatherAPI 1-43,text,true,,125745,194,38,38,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Vatican+City&days=7,225,0,121
+1758305214996,53,Current Weather,200,OK,Thread Group WeatherAPI 1-18,text,true,,1498,179,38,38,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Gabon,53,0,0
+1758305214996,55,Current Weather,200,OK,Thread Group WeatherAPI 1-9,text,true,,1489,181,38,38,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Armenia,53,0,0
+1758305215051,55,Current Weather,200,OK,Thread Group WeatherAPI 1-16,text,true,,1514,195,39,39,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Sao+Tome+and+Principe,55,0,0
+1758305215051,63,Current Weather,200,OK,Thread Group WeatherAPI 1-18,text,true,,1476,181,39,39,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Austria,63,0,0
+1758305215050,117,Forecast,200,OK,Thread Group WeatherAPI 1-43,text,true,,125609,191,39,39,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Australia&days=7,60,0,0
+1758305215107,60,Current Weather,200,OK,Thread Group WeatherAPI 1-16,text,true,,1488,181,39,39,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Bahrain,60,0,0
+1758305215116,73,Forecast,200,OK,Thread Group WeatherAPI 1-18,text,true,,127276,192,39,39,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Bangladesh&days=7,54,0,0
+1758305215053,154,Forecast,200,OK,Thread Group WeatherAPI 1-9,text,true,,126553,192,39,39,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Azerbaijan&days=7,72,0,0
+1758305215168,68,Current Weather,200,OK,Thread Group WeatherAPI 1-43,text,true,,1546,182,39,39,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Barbados,67,0,0
+1758305214875,366,Forecast,200,OK,Thread Group WeatherAPI 1-44,text,true,,128036,201,39,39,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Antigua+and+Barbuda&days=7,197,0,132
+1758305215190,53,Current Weather,200,OK,Thread Group WeatherAPI 1-18,text,true,,1489,181,39,39,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Belgium,53,0,0
+1758305215169,87,Forecast,200,OK,Thread Group WeatherAPI 1-16,text,true,,125744,189,39,39,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Belarus&days=7,69,0,0
+1758305215242,62,Current Weather,200,OK,Thread Group WeatherAPI 1-44,text,true,,1480,180,39,39,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Bhutan,62,0,0
+1758305215237,124,Forecast,200,OK,Thread Group WeatherAPI 1-43,text,true,,127884,187,39,39,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Benin&days=7,67,0,0
+1758305215245,150,Forecast,200,OK,Thread Group WeatherAPI 1-18,text,true,,125895,189,39,39,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Bolivia&days=7,65,0,0
+1758305215362,77,Forecast,200,OK,Thread Group WeatherAPI 1-43,text,true,,126756,188,39,39,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Brazil&days=7,59,0,0
+1758305215277,166,Current Weather,200,OK,Thread Group WeatherAPI 1-46,text,true,,1487,196,39,39,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Bosnia+and+Herzegovina,166,0,113
+1758305215395,54,Current Weather,200,OK,Thread Group WeatherAPI 1-18,text,true,,1493,180,39,39,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Brunei,54,0,0
+1758305215395,56,Current Weather,200,OK,Thread Group WeatherAPI 1-22,text,true,,1495,182,39,39,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Mongolia,54,0,0
+1758305215445,56,Current Weather,200,OK,Thread Group WeatherAPI 1-35,text,true,,1497,183,40,40,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Sri+Lanka,56,0,0
+1758305215445,56,Current Weather,200,OK,Thread Group WeatherAPI 1-46,text,true,,1524,186,40,40,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Burkina+Faso,56,0,0
+1758305215440,74,Forecast,200,OK,Thread Group WeatherAPI 1-43,text,true,,125065,190,40,40,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Bulgaria&days=7,56,0,0
+1758305215503,57,Current Weather,200,OK,Thread Group WeatherAPI 1-46,text,true,,1505,180,40,40,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Canada,57,0,0
+1758305215503,143,Forecast,200,OK,Thread Group WeatherAPI 1-35,text,true,,126673,190,40,40,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Cameroon&days=7,60,0,0
+1758305215627,56,Current Weather,200,OK,Thread Group WeatherAPI 1-30,text,true,,1487,179,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Nepal,56,0,0
+1758305215627,59,Current Weather,200,OK,Thread Group WeatherAPI 1-21,text,true,,1476,178,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Iran,59,0,0
+1758305215627,64,Current Weather,200,OK,Thread Group WeatherAPI 1-3,text,true,,1493,180,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Brunei,64,0,0
+1758305215452,254,Forecast,200,OK,Thread Group WeatherAPI 1-22,text,true,,125583,192,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Cabo+Verde&days=7,73,0,0
+1758305215685,55,Current Weather,200,OK,Thread Group WeatherAPI 1-30,text,true,,1514,182,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Colombia,55,0,0
+1758305215563,201,Forecast,200,OK,Thread Group WeatherAPI 1-46,text,true,,126656,186,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Chad&days=7,71,0,0
+1758305215765,54,Current Weather,200,OK,Thread Group WeatherAPI 1-46,text,true,,1526,189,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Cote+d%27Ivoire,54,0,0
+1758305215765,54,Current Weather,200,OK,Thread Group WeatherAPI 1-5,text,true,,1490,180,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Turkey,54,0,0
+1758305215821,54,Current Weather,200,OK,Thread Group WeatherAPI 1-46,text,true,,1481,181,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Croatia,54,0,0
+1758305215693,203,Forecast,200,OK,Thread Group WeatherAPI 1-3,text,true,,126988,187,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Congo&days=7,73,0,0
+1758305215742,154,Forecast,200,OK,Thread Group WeatherAPI 1-30,text,true,,126473,192,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Costa+Rica&days=7,125,0,0
+1758305215821,85,Forecast,200,OK,Thread Group WeatherAPI 1-5,text,true,,126946,186,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Cuba&days=7,60,0,0
+1758305215897,54,Current Weather,200,OK,Thread Group WeatherAPI 1-30,text,true,,1496,181,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Denmark,54,0,0
+1758305215953,53,Current Weather,200,OK,Thread Group WeatherAPI 1-30,text,true,,1549,192,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Dominican+Republic,53,0,0
+1758305215876,175,Forecast,200,OK,Thread Group WeatherAPI 1-46,text,true,,125951,196,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Czech+Republic&days=7,61,0,0
+1758305215876,178,Current Weather,200,OK,Thread Group WeatherAPI 1-49,text,true,,1484,180,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Cyprus,178,0,119
+1758305215907,157,Forecast,200,OK,Thread Group WeatherAPI 1-5,text,true,,127882,190,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Dominica&days=7,57,0,0
+1758305216052,55,Current Weather,200,OK,Thread Group WeatherAPI 1-46,text,true,,1491,179,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Egypt,55,0,0
+1758305216052,58,Current Weather,200,OK,Thread Group WeatherAPI 1-13,text,true,,1513,182,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Cambodia,58,0,0
+1758305215675,468,Forecast,200,OK,Thread Group WeatherAPI 1-48,text,true,,125437,187,43,43,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=China&days=7,298,0,193
+1758305216065,85,Forecast,200,OK,Thread Group WeatherAPI 1-5,text,true,,128064,199,43,43,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Equatorial+Guinea&days=7,57,0,0
+1758305216008,144,Forecast,200,OK,Thread Group WeatherAPI 1-30,text,true,,127058,189,43,43,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Ecuador&days=7,121,0,0
+1758305216108,97,Forecast,200,OK,Thread Group WeatherAPI 1-46,text,true,,126864,189,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Estonia&days=7,61,0,0
+1758305216144,61,Current Weather,200,OK,Thread Group WeatherAPI 1-48,text,true,,1496,182,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Ethiopia,61,0,0
+1758305216151,82,Forecast,200,OK,Thread Group WeatherAPI 1-5,text,true,,128097,186,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Fiji&days=7,54,0,0
+1758305216206,54,Current Weather,200,OK,Thread Group WeatherAPI 1-46,text,true,,1513,181,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Finland,54,0,0
+1758305216206,55,Current Weather,200,OK,Thread Group WeatherAPI 1-41,text,true,,1486,180,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Zambia,55,0,0
+1758305216262,55,Current Weather,200,OK,Thread Group WeatherAPI 1-41,text,true,,1498,179,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Gabon,55,0,0
+1758305216112,217,Current Weather,400,Bad Request,Thread Group WeatherAPI 1-13,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",710,182,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Eswatini,217,0,0
+1758305216331,58,Current Weather,200,OK,Thread Group WeatherAPI 1-26,text,true,,1499,183,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Lithuania,58,0,0
+1758305216331,58,Current Weather,200,OK,Thread Group WeatherAPI 1-13,text,true,,1486,181,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Germany,58,0,0
+1758305216319,113,Forecast,200,OK,Thread Group WeatherAPI 1-41,text,true,,126746,189,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Georgia&days=7,60,0,0
+1758305216391,57,Current Weather,200,OK,Thread Group WeatherAPI 1-13,text,true,,1481,180,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Greece,57,0,0
+1758305216207,273,Forecast,200,OK,Thread Group WeatherAPI 1-48,text,true,,126721,188,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=France&days=7,192,0,0
+1758305216433,62,Current Weather,200,OK,Thread Group WeatherAPI 1-41,text,true,,1525,181,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Grenada,62,0,0
+1758305216391,127,Forecast,200,OK,Thread Group WeatherAPI 1-26,text,true,,127941,187,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Ghana&days=7,127,0,0
+1758305216497,54,Current Weather,200,OK,Thread Group WeatherAPI 1-41,text,true,,1536,180,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Guyana,54,0,0
+1758305216450,103,Forecast,200,OK,Thread Group WeatherAPI 1-13,text,true,,127040,191,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Guatemala&days=7,60,0,0
+1758305216554,57,Current Weather,200,OK,Thread Group WeatherAPI 1-13,text,true,,1484,181,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Hungary,57,0,0
+1758305216480,144,Forecast,200,OK,Thread Group WeatherAPI 1-48,text,true,,127522,195,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Guinea-Bissau&days=7,68,0,0
+1758305216552,81,Forecast,200,OK,Thread Group WeatherAPI 1-41,text,true,,126752,190,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Honduras&days=7,61,0,0
+1758305216474,176,Current Weather,200,OK,Thread Group WeatherAPI 1-52,text,true,,1518,180,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Guinea,176,0,121
+1758305216624,62,Current Weather,200,OK,Thread Group WeatherAPI 1-48,text,true,,1474,179,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=India,62,0,0
+1758305216612,89,Forecast,200,OK,Thread Group WeatherAPI 1-13,text,true,,126486,189,43,43,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Iceland&days=7,58,0,0
+1758305216702,62,Current Weather,200,OK,Thread Group WeatherAPI 1-13,text,true,,1472,179,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Italy,62,0,0
+1758305216625,195,Current Weather,200,OK,Thread Group WeatherAPI 1-38,text,true,,1530,186,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Sierra+Leone,195,0,142
+1758305216767,57,Current Weather,200,OK,Thread Group WeatherAPI 1-13,text,true,,1511,181,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Jamaica,57,0,0
+1758305216767,57,Current Weather,200,OK,Thread Group WeatherAPI 1-34,text,true,,1492,181,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Somalia,56,0,0
+1758305216690,164,Forecast,200,OK,Thread Group WeatherAPI 1-48,text,true,,125550,189,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Ireland&days=7,74,0,0
+1758305216826,64,Current Weather,200,OK,Thread Group WeatherAPI 1-34,text,true,,1486,180,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Jordan,64,0,0
+1758305216651,264,Forecast,200,OK,Thread Group WeatherAPI 1-52,text,true,,125644,186,43,43,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Iran&days=7,72,0,0
+1758305216893,53,Current Weather,200,OK,Thread Group WeatherAPI 1-34,text,true,,1497,182,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Kiribati,53,0,0
+1758305216948,54,Current Weather,200,OK,Thread Group WeatherAPI 1-34,text,true,,1476,180,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Kuwait,54,0,0
+1758305216916,93,Forecast,200,OK,Thread Group WeatherAPI 1-52,text,true,,124954,188,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Kosovo&days=7,59,0,0
+1758305216855,162,Forecast,200,OK,Thread Group WeatherAPI 1-48,text,true,,126404,192,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Kazakhstan&days=7,71,0,0
+1758305216823,209,Forecast,200,OK,Thread Group WeatherAPI 1-38,text,true,,127245,187,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Japan&days=7,76,0,0
+1758305216874,168,Current Weather,200,OK,Thread Group WeatherAPI 1-54,text,true,,1489,179,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Kenya,168,0,111
+1758305217018,54,Current Weather,200,OK,Thread Group WeatherAPI 1-48,text,true,,1500,178,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Laos,54,0,0
+1758305217009,88,Forecast,200,OK,Thread Group WeatherAPI 1-52,text,true,,125380,192,43,43,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Kyrgyzstan&days=7,60,0,0
+1758305217098,55,Current Weather,200,OK,Thread Group WeatherAPI 1-52,text,true,,1486,179,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Libya,55,0,0
+1758305217155,59,Current Weather,200,OK,Thread Group WeatherAPI 1-35,text,true,,1517,179,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Chile,58,0,0
+1758305217155,61,Current Weather,200,OK,Thread Group WeatherAPI 1-52,text,true,,1486,187,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Liechtenstein,61,0,0
+1758305217074,158,Forecast,200,OK,Thread Group WeatherAPI 1-48,text,true,,128373,189,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Liberia&days=7,73,0,0
+1758305217044,197,Forecast,200,OK,Thread Group WeatherAPI 1-54,text,true,,125795,189,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Lebanon&days=7,71,0,0
+1758305217074,168,Current Weather,200,OK,Thread Group WeatherAPI 1-55,text,true,,1493,181,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Lesotho,168,0,111
+1758305217233,56,Current Weather,200,OK,Thread Group WeatherAPI 1-48,text,true,,1498,184,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Luxembourg,56,0,0
+1758305217233,56,Current Weather,200,OK,Thread Group WeatherAPI 1-21,text,true,,1492,181,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Comoros,55,0,0
+1758305217218,86,Forecast,200,OK,Thread Group WeatherAPI 1-52,text,true,,125857,191,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Lithuania&days=7,56,0,0
+1758305217243,95,Forecast,200,OK,Thread Group WeatherAPI 1-54,text,true,,125757,192,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Madagascar&days=7,63,0,0
+1758305217305,55,Current Weather,200,OK,Thread Group WeatherAPI 1-52,text,true,,1510,178,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Mali,55,0,0
+1758305217362,56,Current Weather,200,OK,Thread Group WeatherAPI 1-52,text,true,,1492,190,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Marshall+Islands,56,0,0
+1758305217291,161,Forecast,200,OK,Thread Group WeatherAPI 1-21,text,true,,127930,190,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Maldives&days=7,60,0,0
+1758305217276,176,Current Weather,200,OK,Thread Group WeatherAPI 1-56,text,true,,1511,182,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Malaysia,176,0,116
+1758305217420,52,Current Weather,200,OK,Thread Group WeatherAPI 1-3,text,true,,1491,182,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Djibouti,52,0,0
+1758305217420,60,Current Weather,200,OK,Thread Group WeatherAPI 1-52,text,true,,1519,184,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Mauritania,60,0,0
+1758305217454,54,Current Weather,200,OK,Thread Group WeatherAPI 1-56,text,true,,1533,180,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Mexico,54,0,0
+1758305217474,57,Current Weather,200,OK,Thread Group WeatherAPI 1-3,text,true,,1496,181,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Moldova,57,0,0
+1758305217339,224,Forecast,200,OK,Thread Group WeatherAPI 1-54,text,true,,125580,187,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Malta&days=7,62,0,0
+1758305217453,130,Forecast,200,OK,Thread Group WeatherAPI 1-21,text,true,,127262,191,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Mauritius&days=7,57,0,0
+1758305217537,54,Current Weather,200,OK,Thread Group WeatherAPI 1-49,text,true,,1527,185,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=El+Salvador,54,0,0
+1758305217564,53,Current Weather,200,OK,Thread Group WeatherAPI 1-54,text,true,,1528,184,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Montenegro,52,0,0
+1758305217533,91,Forecast,200,OK,Thread Group WeatherAPI 1-3,text,true,,125230,190,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Mongolia&days=7,61,0,0
+1758305217592,57,Current Weather,200,OK,Thread Group WeatherAPI 1-49,text,true,,1499,184,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Mozambique,53,0,0
+1758305217650,59,Current Weather,200,OK,Thread Group WeatherAPI 1-49,text,true,,1484,179,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Nauru,55,0,0
+1758305217584,154,Forecast,200,OK,Thread Group WeatherAPI 1-21,text,true,,125941,189,43,43,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Morocco&days=7,58,0,0
+1758305217624,140,Forecast,200,OK,Thread Group WeatherAPI 1-3,text,true,,126541,189,43,43,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Namibia&days=7,62,0,0
+1758305217710,54,Current Weather,200,OK,Thread Group WeatherAPI 1-39,text,true,,1483,181,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Albania,54,0,0
+1758305217710,59,Current Weather,200,OK,Thread Group WeatherAPI 1-49,text,true,,1500,185,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Netherlands,57,0,0
+1758305217739,55,Current Weather,200,OK,Thread Group WeatherAPI 1-21,text,true,,1493,185,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=New+Zealand,55,0,0
+1758305217766,53,Current Weather,200,OK,Thread Group WeatherAPI 1-39,text,true,,1508,179,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Niger,53,0,0
+1758305217475,360,Forecast,200,OK,Thread Group WeatherAPI 1-57,text,true,,127759,192,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Micronesia&days=7,188,0,115
+1758305217765,84,Forecast,200,OK,Thread Group WeatherAPI 1-3,text,true,,127444,191,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Nicaragua&days=7,57,0,0
+1758305216677,1185,Current Weather,200,OK,Thread Group WeatherAPI 1-53,text,true,,1481,178,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Iraq,1185,0,1124
+1758305217821,62,Current Weather,200,OK,Thread Group WeatherAPI 1-39,text,true,,1496,185,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=North+Korea,62,0,0
+1758305217863,57,Current Weather,200,OK,Thread Group WeatherAPI 1-53,text,true,,1479,178,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Oman,57,0,0
+1758305217850,88,Forecast,200,OK,Thread Group WeatherAPI 1-3,text,true,,125474,188,43,43,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Norway&days=7,59,0,0
+1758305217884,58,Current Weather,200,OK,Thread Group WeatherAPI 1-39,text,true,,1517,179,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Palau,58,0,0
+1758305217922,64,Current Weather,200,OK,Thread Group WeatherAPI 1-53,text,true,,1480,183,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Palestine,64,0,0
+1758305217771,219,Forecast,200,OK,Thread Group WeatherAPI 1-49,text,true,,127233,189,43,43,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Nigeria&days=7,75,0,0
+1758305217939,102,Forecast,200,OK,Thread Group WeatherAPI 1-3,text,true,,127776,188,43,43,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Panama&days=7,73,0,0
+1758305217676,366,Forecast,200,OK,Thread Group WeatherAPI 1-58,text,true,,127588,187,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Nepal&days=7,170,0,113
+1758305217990,55,Current Weather,200,OK,Thread Group WeatherAPI 1-49,text,true,,1499,178,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Peru,55,0,0
+1758305217990,59,Current Weather,200,OK,Thread Group WeatherAPI 1-6,text,true,,1486,181,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Germany,59,0,0
+1758305218043,75,Current Weather,200,OK,Thread Group WeatherAPI 1-41,text,true,,1490,183,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Indonesia,75,0,0
+1758305218043,75,Current Weather,200,OK,Thread Group WeatherAPI 1-58,text,true,,1496,185,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Philippines,75,0,0
+1758305218047,133,Forecast,200,OK,Thread Group WeatherAPI 1-49,text,true,,125862,188,43,43,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Poland&days=7,74,0,0
+1758305218120,59,Current Weather,200,OK,Thread Group WeatherAPI 1-41,text,true,,1487,181,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Romania,59,0,0
+1758305218120,66,Current Weather,200,OK,Thread Group WeatherAPI 1-58,text,true,,1496,180,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Russia,66,0,0
+1758305217988,240,Forecast,200,OK,Thread Group WeatherAPI 1-53,text,true,,125862,190,43,43,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Paraguay&days=7,65,0,0
+1758305218181,56,Current Weather,200,OK,Thread Group WeatherAPI 1-41,text,true,,1555,195,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Saint+Kitts+and+Nevis,53,0,0
+1758305218181,58,Current Weather,200,OK,Thread Group WeatherAPI 1-31,text,true,,1528,184,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Montenegro,56,0,0
+1758305217875,393,Forecast,200,OK,Thread Group WeatherAPI 1-59,text,true,,125706,190,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Pakistan&days=7,207,0,140
+1758305218180,92,Forecast,200,OK,Thread Group WeatherAPI 1-49,text,true,,125507,188,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Rwanda&days=7,60,0,0
+1758305218228,54,Current Weather,200,OK,Thread Group WeatherAPI 1-53,text,true,,1557,206,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Saint+Vincent+and+the+Grenadines,54,0,0
+1758305218241,60,Current Weather,200,OK,Thread Group WeatherAPI 1-31,text,true,,1488,179,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Samoa,59,0,0
+1758305218272,57,Current Weather,200,OK,Thread Group WeatherAPI 1-49,text,true,,1514,195,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Sao+Tome+and+Principe,57,0,0
+1758305218187,159,Forecast,200,OK,Thread Group WeatherAPI 1-58,text,true,,128036,193,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Saint+Lucia&days=7,129,0,0
+1758305218302,58,Current Weather,200,OK,Thread Group WeatherAPI 1-31,text,true,,1492,180,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Serbia,58,0,0
+1758305218269,111,Forecast,200,OK,Thread Group WeatherAPI 1-59,text,true,,126044,192,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=San+Marino&days=7,68,0,0
+1758305218076,344,Forecast,200,OK,Thread Group WeatherAPI 1-60,text,true,,125788,187,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Qatar&days=7,229,0,120
+1758305218361,59,Current Weather,200,OK,Thread Group WeatherAPI 1-31,text,true,,1530,186,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Sierra+Leone,59,0,0
+1758305218347,87,Forecast,200,OK,Thread Group WeatherAPI 1-58,text,true,,128000,192,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Seychelles&days=7,57,0,0
+1758305218381,90,Forecast,200,OK,Thread Group WeatherAPI 1-59,text,true,,126910,191,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Singapore&days=7,59,0,0
+1758305218420,57,Current Weather,200,OK,Thread Group WeatherAPI 1-37,text,true,,1477,185,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Timor-Leste,57,0,0
+1758305218420,57,Current Weather,200,OK,Thread Group WeatherAPI 1-60,text,true,,1493,182,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Slovakia,57,0,0
+1758305218471,56,Current Weather,200,OK,Thread Group WeatherAPI 1-22,text,true,,1505,179,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Congo,56,0,0
+1758305218471,56,Current Weather,200,OK,Thread Group WeatherAPI 1-59,text,true,,1492,181,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Somalia,56,0,0
+1758305218529,60,Current Weather,200,OK,Thread Group WeatherAPI 1-22,text,true,,1497,183,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Sri+Lanka,58,0,0
+1758305218435,161,Forecast,200,OK,Thread Group WeatherAPI 1-58,text,true,,127246,197,43,43,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Solomon+Islands&days=7,68,0,0
+1758305218597,55,Current Weather,200,OK,Thread Group WeatherAPI 1-20,text,true,,1509,180,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Tuvalu,55,0,0
+1758305218597,55,Current Weather,200,OK,Thread Group WeatherAPI 1-58,text,true,,1524,182,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Suriname,55,0,0
+1758305218275,406,Forecast,200,OK,Thread Group WeatherAPI 1-61,text,true,,125470,194,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Saudi+Arabia&days=7,228,0,112
+1758305218529,154,Forecast,200,OK,Thread Group WeatherAPI 1-59,text,true,,125948,187,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Spain&days=7,67,0,0
+1758305218654,55,Current Weather,200,OK,Thread Group WeatherAPI 1-20,text,true,,1497,180,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Sweden,55,0,0
+1758305218654,55,Current Weather,200,OK,Thread Group WeatherAPI 1-25,text,true,,1476,180,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Kuwait,55,0,0
+1758305218654,85,Forecast,200,OK,Thread Group WeatherAPI 1-58,text,true,,125738,193,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Switzerland&days=7,57,0,0
+1758305218591,156,Forecast,200,OK,Thread Group WeatherAPI 1-22,text,true,,126519,187,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Sudan&days=7,122,0,0
+1758305218711,53,Current Weather,200,OK,Thread Group WeatherAPI 1-20,text,true,,1494,182,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Tanzania,53,0,0
+1758305218711,95,Forecast,200,OK,Thread Group WeatherAPI 1-25,text,true,,127436,190,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Thailand&days=7,58,0,0
+1758305218682,124,Forecast,200,OK,Thread Group WeatherAPI 1-61,text,true,,126921,188,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Taiwan&days=7,60,0,0
+1758305218740,66,Current Weather,200,OK,Thread Group WeatherAPI 1-58,text,true,,1477,185,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Timor-Leste,66,0,0
+1758305218748,78,Forecast,200,OK,Thread Group WeatherAPI 1-22,text,true,,127813,186,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Togo&days=7,58,0,0
+1758305218477,389,Forecast,200,OK,Thread Group WeatherAPI 1-62,text,true,,125698,194,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=South+Africa&days=7,199,0,122
+1758305218675,192,Current Weather,200,OK,Thread Group WeatherAPI 1-63,text,true,,1482,179,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Syria,192,0,128
+1758305218807,63,Current Weather,200,OK,Thread Group WeatherAPI 1-24,text,true,,1493,181,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Lesotho,63,0,0
+1758305218807,63,Current Weather,200,OK,Thread Group WeatherAPI 1-61,text,true,,1544,193,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Trinidad+and+Tobago,63,0,0
+1758305218807,104,Forecast,200,OK,Thread Group WeatherAPI 1-25,text,true,,126258,189,45,45,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Tunisia&days=7,65,0,0
+1758305218867,54,Current Weather,200,OK,Thread Group WeatherAPI 1-62,text,true,,1509,180,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Tuvalu,53,0,0
+1758305218868,54,Current Weather,200,OK,Thread Group WeatherAPI 1-63,text,true,,1481,180,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Uganda,54,0,0
+1758305218912,56,Current Weather,200,OK,Thread Group WeatherAPI 1-25,text,true,,1526,187,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=United+States,56,0,0
+1758305218827,161,Forecast,200,OK,Thread Group WeatherAPI 1-22,text,true,,125493,194,45,45,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Turkmenistan&days=7,59,0,0
+1758305218970,53,Current Weather,200,OK,Thread Group WeatherAPI 1-25,text,true,,1499,181,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Vanuatu,53,0,0
+1758305218872,154,Forecast,200,OK,Thread Group WeatherAPI 1-24,text,true,,125673,189,45,45,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Ukraine&days=7,56,0,0
+1758305218970,57,Current Weather,200,OK,Thread Group WeatherAPI 1-27,text,true,,1555,195,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Saint+Kitts+and+Nevis,57,0,0
+1758305219025,64,Current Weather,200,OK,Thread Group WeatherAPI 1-25,text,true,,1527,183,46,46,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Venezuela,64,0,0
+1758305218924,196,Forecast,200,OK,Thread Group WeatherAPI 1-63,text,true,,125308,192,46,46,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Uzbekistan&days=7,74,0,0
+1758305219076,74,Current Weather,200,OK,Thread Group WeatherAPI 1-57,text,true,,1533,189,46,46,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=North+Macedonia,74,0,0
+1758305218989,183,Forecast,200,OK,Thread Group WeatherAPI 1-22,text,true,,125745,194,46,46,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Vatican+City&days=7,57,0,0
+1758305219091,84,Forecast,200,OK,Thread Group WeatherAPI 1-25,text,true,,125460,190,46,46,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Zimbabwe&days=7,56,0,0
+1758305219122,58,Current Weather,200,OK,Thread Group WeatherAPI 1-63,text,true,,1555,181,46,46,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=country,58,0,0
+1758305218876,334,Forecast,200,OK,Thread Group WeatherAPI 1-64,text,true,,127035,196,46,46,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=United+Kingdom&days=7,190,0,116
+1758305219152,58,Current Weather,200,OK,Thread Group WeatherAPI 1-57,text,true,,1479,185,46,46,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Afghanistan,58,0,0
+1758305219028,199,Forecast,200,OK,Thread Group WeatherAPI 1-27,text,true,,126035,187,46,46,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Yemen&days=7,76,0,0
+1758305219176,54,Current Weather,200,OK,Thread Group WeatherAPI 1-25,text,true,,1494,181,46,46,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Algeria,54,0,0
+1758305219076,170,Current Weather,200,OK,Thread Group WeatherAPI 1-65,text,true,,1486,180,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Zambia,170,0,114
+1758305219181,89,Forecast,200,OK,Thread Group WeatherAPI 1-63,text,true,,126029,189,45,45,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Andorra&days=7,60,0,0
+1758305219210,60,Current Weather,200,OK,Thread Group WeatherAPI 1-64,text,true,,1489,180,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Angola,60,0,0
+1758305219244,59,Current Weather,200,OK,Thread Group WeatherAPI 1-9,text,true,,1511,180,46,46,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Belize,56,0,0
+1758305219247,59,Current Weather,200,OK,Thread Group WeatherAPI 1-65,text,true,,1489,181,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Armenia,59,0,0
+1758305219228,94,Forecast,200,OK,Thread Group WeatherAPI 1-27,text,true,,126750,191,45,45,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Argentina&days=7,59,0,0
+1758305219271,85,Forecast,200,OK,Thread Group WeatherAPI 1-63,text,true,,125609,191,45,45,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Australia&days=7,59,0,0
+1758305219323,53,Current Weather,200,OK,Thread Group WeatherAPI 1-27,text,true,,1488,181,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Bahrain,53,0,0
+1758305219323,53,Current Weather,200,OK,Thread Group WeatherAPI 1-44,text,true,,1494,182,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Botswana,53,0,0
+1758305219172,241,Forecast,200,OK,Thread Group WeatherAPI 1-22,text,true,,125113,189,45,45,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Albania&days=7,61,0,0
+1758305219378,59,Current Weather,200,OK,Thread Group WeatherAPI 1-27,text,true,,1546,182,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Barbados,59,0,0
+1758305219378,58,Current Weather,200,OK,Thread Group WeatherAPI 1-44,text,true,,1481,181,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Belarus,56,0,0
+1758305219357,85,Forecast,200,OK,Thread Group WeatherAPI 1-63,text,true,,127299,192,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Bangladesh&days=7,56,0,0
+1758305219438,62,Current Weather,200,OK,Thread Group WeatherAPI 1-44,text,true,,1511,180,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Belize,62,0,0
+1758305219438,89,Forecast,200,OK,Thread Group WeatherAPI 1-27,text,true,,126665,189,45,45,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Belgium&days=7,58,0,0
+1758305219443,84,Forecast,200,OK,Thread Group WeatherAPI 1-63,text,true,,127819,187,45,45,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Benin&days=7,57,0,0
+1758305219307,238,Forecast,200,OK,Thread Group WeatherAPI 1-65,text,true,,127227,189,45,45,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Bahamas&days=7,130,0,0
+1758305219502,53,Current Weather,200,OK,Thread Group WeatherAPI 1-44,text,true,,1512,181,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Bolivia,53,0,0
+1758305219528,55,Current Weather,200,OK,Thread Group WeatherAPI 1-27,text,true,,1494,182,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Botswana,53,0,0
+1758305219439,178,Current Weather,200,OK,Thread Group WeatherAPI 1-14,text,true,,1480,180,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Bhutan,178,0,118
+1758305219557,60,Current Weather,200,OK,Thread Group WeatherAPI 1-44,text,true,,1493,180,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Brunei,60,0,0
+1758305219475,166,Current Weather,200,OK,Thread Group WeatherAPI 1-67,text,true,,1480,180,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Bhutan,166,0,109
+1758305219528,143,Forecast,200,OK,Thread Group WeatherAPI 1-63,text,true,,124868,204,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Bosnia+and+Herzegovina&days=7,55,0,0
+1758305219618,56,Current Weather,200,OK,Thread Group WeatherAPI 1-14,text,true,,1483,182,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Bulgaria,56,0,0
+1758305219618,64,Current Weather,200,OK,Thread Group WeatherAPI 1-55,text,true,,1490,180,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Malawi,64,0,0
+1758305219546,153,Forecast,200,OK,Thread Group WeatherAPI 1-65,text,true,,126758,188,45,45,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Brazil&days=7,61,0,0
+1758305219618,93,Forecast,200,OK,Thread Group WeatherAPI 1-44,text,true,,127102,194,45,45,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Burkina+Faso&days=7,64,0,0
+1758305219675,57,Current Weather,200,OK,Thread Group WeatherAPI 1-14,text,true,,1513,182,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Cambodia,57,0,0
+1758305219700,76,Current Weather,200,OK,Thread Group WeatherAPI 1-65,text,true,,1506,198,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Central+African+Republic,76,0,0
+1758305219734,57,Current Weather,200,OK,Thread Group WeatherAPI 1-14,text,true,,1517,179,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Chile,56,0,0
+1758305219672,124,Forecast,200,OK,Thread Group WeatherAPI 1-63,text,true,,125583,192,45,45,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Cabo+Verde&days=7,120,0,0
+1758305219712,96,Forecast,200,OK,Thread Group WeatherAPI 1-44,text,true,,126656,186,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Chad&days=7,70,0,0
+1758305219778,56,Current Weather,200,OK,Thread Group WeatherAPI 1-65,text,true,,1480,179,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=China,56,0,0
+1758305219778,56,Current Weather,200,OK,Thread Group WeatherAPI 1-33,text,true,,1525,190,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Papua+New+Guinea,56,0,0
+1758305219809,54,Current Weather,200,OK,Thread Group WeatherAPI 1-44,text,true,,1492,181,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Comoros,54,0,0
+1758305219684,193,Forecast,200,OK,Thread Group WeatherAPI 1-55,text,true,,125566,188,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Canada&days=7,72,0,0
+1758305219835,57,Current Weather,200,OK,Thread Group WeatherAPI 1-33,text,true,,1505,179,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Congo,57,0,0
+1758305219835,75,Forecast,200,OK,Thread Group WeatherAPI 1-65,text,true,,126988,187,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Congo&days=7,57,0,0
+1758305219894,57,Current Weather,200,OK,Thread Group WeatherAPI 1-33,text,true,,1481,181,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Croatia,57,0,0
+1758305219878,97,Forecast,200,OK,Thread Group WeatherAPI 1-55,text,true,,126711,197,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Cote+d%27Ivoire&days=7,58,0,0
+1758305219911,77,Forecast,200,OK,Thread Group WeatherAPI 1-65,text,true,,126866,186,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Cuba&days=7,64,0,0
+1758305219792,204,Forecast,200,OK,Thread Group WeatherAPI 1-14,text,true,,126572,190,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Colombia&days=7,76,0,0
+1758305219953,54,Current Weather,200,OK,Thread Group WeatherAPI 1-33,text,true,,1484,180,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Cyprus,54,0,0
+1758305219976,61,Current Weather,200,OK,Thread Group WeatherAPI 1-55,text,true,,1502,188,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Czech+Republic,61,0,0
+1758305219877,173,Current Weather,200,OK,Thread Group WeatherAPI 1-69,text,true,,1525,184,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Costa+Rica,173,0,113
+1758305219997,56,Current Weather,200,OK,Thread Group WeatherAPI 1-14,text,true,,1491,182,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Djibouti,56,0,0
+1758305219988,75,Forecast,200,OK,Thread Group WeatherAPI 1-65,text,true,,126369,189,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Denmark&days=7,57,0,0
+1758305220038,53,Current Weather,200,OK,Thread Group WeatherAPI 1-55,text,true,,1549,192,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Dominican+Republic,53,0,0
+1758305220064,58,Current Weather,200,OK,Thread Group WeatherAPI 1-65,text,true,,1527,185,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=El+Salvador,58,0,0
+1758305220014,115,Forecast,200,OK,Thread Group WeatherAPI 1-33,text,true,,127882,190,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Dominica&days=7,59,0,0
+1758305220093,55,Current Weather,200,OK,Thread Group WeatherAPI 1-55,text,true,,1475,181,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Eritrea,55,0,0
+1758305220055,95,Forecast,200,OK,Thread Group WeatherAPI 1-14,text,true,,125423,187,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Egypt&days=7,67,0,0
+1758305220130,53,Current Weather,200,OK,Thread Group WeatherAPI 1-33,text,true,,1498,181,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Estonia,53,0,0
+1758305220150,54,Current Weather,200,OK,Thread Group WeatherAPI 1-14,text,true,,1496,182,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Ethiopia,54,0,0
+1758305220184,76,Forecast,200,OK,Thread Group WeatherAPI 1-33,text,true,,127966,186,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Fiji&days=7,59,0,0
+1758305220205,55,Current Weather,200,OK,Thread Group WeatherAPI 1-24,text,true,,1474,181,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Vietnam,55,0,0
+1758305220205,59,Current Weather,200,OK,Thread Group WeatherAPI 1-14,text,true,,1513,181,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Finland,55,0,0
+1758305220261,52,Current Weather,200,OK,Thread Group WeatherAPI 1-33,text,true,,1483,180,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=France,52,0,0
+1758305220262,91,Forecast,200,OK,Thread Group WeatherAPI 1-24,text,true,,128136,187,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Gabon&days=7,58,0,0
+1758305220353,53,Current Weather,200,OK,Thread Group WeatherAPI 1-24,text,true,,1486,181,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Germany,53,0,0
+1758305220038,368,Current Weather,200,OK,Thread Group WeatherAPI 1-4,text,true,,1505,180,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Canada,55,0,0
+1758305220353,53,Current Weather,200,OK,Thread Group WeatherAPI 1-39,text,true,,1525,190,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Papua+New+Guinea,53,0,0
+1758305220076,334,Forecast,200,OK,Thread Group WeatherAPI 1-70,text,true,,128062,199,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Equatorial+Guinea&days=7,220,0,112
+1758305220353,57,Current Weather,200,OK,Thread Group WeatherAPI 1-12,text,true,,1517,179,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Benin,57,0,0
+1758305220262,166,Current Weather,200,OK,Thread Group WeatherAPI 1-45,text,true,,1519,181,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Bahamas,166,0,111
+1758305220408,52,Current Weather,200,OK,Thread Group WeatherAPI 1-39,text,true,,1513,179,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Ghana,52,0,0
+1758305220408,59,Current Weather,200,OK,Thread Group WeatherAPI 1-4,text,true,,1525,181,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Grenada,59,0,0
+1758305220429,60,Current Weather,200,OK,Thread Group WeatherAPI 1-45,text,true,,1535,187,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Guinea-Bissau,60,0,0
+1758305220408,85,Forecast,200,OK,Thread Group WeatherAPI 1-24,text,true,,125485,188,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Greece&days=7,59,0,0
+1758305220411,94,Forecast,200,OK,Thread Group WeatherAPI 1-70,text,true,,126920,191,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Guatemala&days=7,64,0,0
+1758305220149,370,Forecast,400,Bad Request,Thread Group WeatherAPI 1-55,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",701,190,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Eswatini&days=7,370,0,0
+1758305220494,59,Current Weather,200,OK,Thread Group WeatherAPI 1-24,text,true,,1484,181,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Hungary,57,0,0
+1758305220469,92,Forecast,200,OK,Thread Group WeatherAPI 1-4,text,true,,126771,188,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Guyana&days=7,61,0,0
+1758305220519,87,Forecast,200,OK,Thread Group WeatherAPI 1-55,text,true,,125687,187,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=India&days=7,59,0,0
+1758305220554,52,Current Weather,200,OK,Thread Group WeatherAPI 1-24,text,true,,1490,183,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Indonesia,52,0,0
+1758305220554,56,Current Weather,200,OK,Thread Group WeatherAPI 1-18,text,true,,1491,181,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Burundi,55,0,0
+1758305220276,336,Forecast,200,OK,Thread Group WeatherAPI 1-71,text,true,,126879,189,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Georgia&days=7,181,0,124
+1758305220562,83,Forecast,200,OK,Thread Group WeatherAPI 1-4,text,true,,125516,186,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Iran&days=7,64,0,0
+1758305220476,171,Current Weather,200,OK,Thread Group WeatherAPI 1-72,text,true,,1525,179,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Haiti,171,0,118
+1758305220607,54,Current Weather,200,OK,Thread Group WeatherAPI 1-53,text,true,,1510,181,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Senegal,54,0,0
+1758305220607,54,Current Weather,200,OK,Thread Group WeatherAPI 1-55,text,true,,1481,178,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Iraq,54,0,0
+1758305220491,203,Forecast,200,OK,Thread Group WeatherAPI 1-45,text,true,,126722,190,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Honduras&days=7,73,0,0
+1758305220648,56,Current Weather,200,OK,Thread Group WeatherAPI 1-72,text,true,,1511,181,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Jamaica,56,0,0
+1758305220646,85,Forecast,200,OK,Thread Group WeatherAPI 1-4,text,true,,125754,187,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Italy&days=7,58,0,0
+1758305220694,54,Current Weather,200,OK,Thread Group WeatherAPI 1-45,text,true,,1495,184,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Kazakhstan,54,0,0
+1758305220662,102,Forecast,200,OK,Thread Group WeatherAPI 1-53,text,true,,127078,187,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Japan&days=7,62,0,0
+1758305220731,55,Current Weather,200,OK,Thread Group WeatherAPI 1-4,text,true,,1497,182,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Kiribati,55,0,0
+1758305220764,53,Current Weather,200,OK,Thread Group WeatherAPI 1-53,text,true,,1476,180,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Kuwait,53,0,0
+1758305220749,96,Forecast,200,OK,Thread Group WeatherAPI 1-45,text,true,,124954,188,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Kosovo&days=7,62,0,0
+1758305220787,58,Current Weather,200,OK,Thread Group WeatherAPI 1-4,text,true,,1495,184,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Kyrgyzstan,58,0,0
+1758305220675,179,Current Weather,200,OK,Thread Group WeatherAPI 1-73,text,true,,1486,180,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Jordan,179,0,120
+1758305220706,195,Forecast,200,OK,Thread Group WeatherAPI 1-72,text,true,,125980,187,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Kenya&days=7,76,0,0
+1758305220845,56,Current Weather,200,OK,Thread Group WeatherAPI 1-45,text,true,,1487,180,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Latvia,56,0,0
+1758305220818,89,Forecast,200,OK,Thread Group WeatherAPI 1-53,text,true,,127354,186,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Laos&days=7,57,0,0
+1758305220901,60,Current Weather,200,OK,Thread Group WeatherAPI 1-72,text,true,,1538,181,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Liberia,60,0,0
+1758305220903,84,Forecast,200,OK,Thread Group WeatherAPI 1-45,text,true,,126069,187,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Libya&days=7,58,0,0
+1758305220846,177,Current Weather,200,OK,Thread Group WeatherAPI 1-68,text,true,,1511,182,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Cameroon,177,0,118
+1758305220988,55,Current Weather,200,OK,Thread Group WeatherAPI 1-59,text,true,,1481,184,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Tajikistan,55,0,0
+1758305220988,59,Current Weather,200,OK,Thread Group WeatherAPI 1-56,text,true,,1477,180,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Monaco,55,0,0
+1758305220988,63,Current Weather,200,OK,Thread Group WeatherAPI 1-45,text,true,,1498,184,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Luxembourg,63,0,0
+1758305220874,177,Current Weather,200,OK,Thread Group WeatherAPI 1-74,text,true,,1493,181,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Lesotho,177,0,119
+1758305220963,98,Forecast,200,OK,Thread Group WeatherAPI 1-72,text,true,,125776,191,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Lithuania&days=7,64,0,0
+1758305220856,209,Forecast,200,OK,Thread Group WeatherAPI 1-73,text,true,,125610,189,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Lebanon&days=7,77,0,0
+1758305221025,57,Current Weather,200,OK,Thread Group WeatherAPI 1-68,text,true,,1507,184,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Madagascar,56,0,0
+1758305221049,57,Current Weather,200,OK,Thread Group WeatherAPI 1-56,text,true,,1511,182,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Malaysia,55,0,0
+1758305221062,55,Current Weather,200,OK,Thread Group WeatherAPI 1-72,text,true,,1477,179,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Malta,55,0,0
+1758305221046,90,Forecast,200,OK,Thread Group WeatherAPI 1-59,text,true,,125459,188,43,43,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Malawi&days=7,61,0,0
+1758305221053,88,Forecast,200,OK,Thread Group WeatherAPI 1-45,text,true,,127923,190,43,43,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Maldives&days=7,57,0,0
+1758305221065,90,Forecast,200,OK,Thread Group WeatherAPI 1-73,text,true,,127503,198,43,43,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Marshall+Islands&days=7,58,0,0
+1758305221107,59,Current Weather,200,OK,Thread Group WeatherAPI 1-54,text,true,,1492,181,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Myanmar,59,0,0
+1758305221142,54,Current Weather,200,OK,Thread Group WeatherAPI 1-45,text,true,,1477,180,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Monaco,54,0,0
+1758305221107,105,Current Weather,200,OK,Thread Group WeatherAPI 1-56,text,true,,1533,180,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Mexico,105,0,0
+1758305221137,82,Forecast,200,OK,Thread Group WeatherAPI 1-59,text,true,,125614,189,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Moldova&days=7,59,0,0
+1758305221168,56,Current Weather,200,OK,Thread Group WeatherAPI 1-54,text,true,,1528,184,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Montenegro,56,0,0
+1758305221155,85,Forecast,200,OK,Thread Group WeatherAPI 1-73,text,true,,125239,190,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Mongolia&days=7,61,0,0
+1758305221207,61,Current Weather,200,OK,Thread Group WeatherAPI 1-62,text,true,,1526,181,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Uruguay,61,0,0
+1758305221226,53,Current Weather,200,OK,Thread Group WeatherAPI 1-54,text,true,,1492,181,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Myanmar,53,0,0
+1758305221083,205,Forecast,200,OK,Thread Group WeatherAPI 1-68,text,true,,127269,191,43,43,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Mauritius&days=7,75,0,0
+1758305221219,99,Forecast,200,OK,Thread Group WeatherAPI 1-59,text,true,,126934,192,43,43,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Mozambique&days=7,56,0,0
+1758305221241,83,Forecast,200,OK,Thread Group WeatherAPI 1-73,text,true,,126541,189,43,43,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Namibia&days=7,59,0,0
+1758305221269,55,Current Weather,200,OK,Thread Group WeatherAPI 1-62,text,true,,1484,179,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Nauru,55,0,0
+1758305221280,84,Forecast,200,OK,Thread Group WeatherAPI 1-54,text,true,,127038,193,43,43,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Netherlands&days=7,58,0,0
+1758305221325,54,Current Weather,200,OK,Thread Group WeatherAPI 1-14,text,true,,1531,180,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Gambia,54,0,0
+1758305221325,54,Current Weather,200,OK,Thread Group WeatherAPI 1-73,text,true,,1508,179,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Niger,54,0,0
+1758305221318,83,Forecast,200,OK,Thread Group WeatherAPI 1-59,text,true,,127362,191,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Nicaragua&days=7,58,0,0
+1758305221380,54,Current Weather,200,OK,Thread Group WeatherAPI 1-6,text,true,,1503,182,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Portugal,54,0,0
+1758305221380,54,Current Weather,200,OK,Thread Group WeatherAPI 1-73,text,true,,1533,189,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=North+Macedonia,54,0,0
+1758305221270,164,Current Weather,200,OK,Thread Group WeatherAPI 1-11,text,true,,1546,182,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Barbados,164,0,112
+1758305221365,83,Forecast,200,OK,Thread Group WeatherAPI 1-54,text,true,,125705,193,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=North+Korea&days=7,62,0,0
+1758305221435,56,Current Weather,200,OK,Thread Group WeatherAPI 1-12,text,true,,1518,180,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Guinea,56,0,0
+1758305221435,56,Current Weather,200,OK,Thread Group WeatherAPI 1-73,text,true,,1479,178,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Oman,56,0,0
+1758305221493,59,Current Weather,200,OK,Thread Group WeatherAPI 1-12,text,true,,1480,183,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Palestine,59,0,0
+1758305221493,99,Forecast,200,OK,Thread Group WeatherAPI 1-73,text,true,,127564,188,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Panama&days=7,59,0,0
+1758305221553,55,Current Weather,200,OK,Thread Group WeatherAPI 1-12,text,true,,1525,190,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Papua+New+Guinea,55,0,0
+1758305221553,55,Current Weather,200,OK,Thread Group WeatherAPI 1-70,text,true,,1512,181,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Iceland,55,0,0
+1758305221593,52,Current Weather,200,OK,Thread Group WeatherAPI 1-38,text,true,,1487,180,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Latvia,52,0,0
+1758305221435,215,Forecast,200,OK,Thread Group WeatherAPI 1-6,text,true,,125474,188,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Norway&days=7,76,0,0
+1758305221593,57,Current Weather,200,OK,Thread Group WeatherAPI 1-73,text,true,,1507,182,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Paraguay,57,0,0
+1758305221494,180,Current Weather,200,OK,Thread Group WeatherAPI 1-66,text,true,,1490,184,40,40,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Azerbaijan,180,0,122
+1758305221609,99,Forecast,200,OK,Thread Group WeatherAPI 1-12,text,true,,126517,186,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Peru&days=7,60,0,0
+1758305221651,57,Current Weather,200,OK,Thread Group WeatherAPI 1-43,text,true,,1506,198,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Central+African+Republic,57,0,0
+1758305221651,57,Current Weather,200,OK,Thread Group WeatherAPI 1-6,text,true,,1503,182,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Portugal,57,0,0
+1758305221647,94,Forecast,200,OK,Thread Group WeatherAPI 1-38,text,true,,125862,188,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Poland&days=7,61,0,0
+1758305221709,60,Current Weather,200,OK,Thread Group WeatherAPI 1-12,text,true,,1496,180,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Russia,57,0,0
+1758305221741,57,Current Weather,200,OK,Thread Group WeatherAPI 1-38,text,true,,1518,185,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Saint+Lucia,57,0,0
+1758305221475,336,Forecast,200,OK,Thread Group WeatherAPI 1-77,text,true,,125913,187,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Palau&days=7,194,0,120
+1758305221676,171,Current Weather,200,OK,Thread Group WeatherAPI 1-78,text,true,,1479,179,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Qatar,171,0,111
+1758305221799,56,Current Weather,200,OK,Thread Group WeatherAPI 1-38,text,true,,1488,179,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Samoa,56,0,0
+1758305221799,58,Current Weather,200,OK,Thread Group WeatherAPI 1-37,text,true,,1528,185,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=South+Sudan,56,0,0
+1758305221709,152,Forecast,200,OK,Thread Group WeatherAPI 1-43,text,true,,125530,188,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Rwanda&days=7,63,0,0
+1758305221676,206,Forecast,200,OK,Thread Group WeatherAPI 1-66,text,true,,125305,189,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Romania&days=7,78,0,0
+1758305221848,55,Current Weather,200,OK,Thread Group WeatherAPI 1-78,text,true,,1514,195,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Sao+Tome+and+Principe,53,0,0
+1758305221811,95,Forecast,200,OK,Thread Group WeatherAPI 1-77,text,true,,126029,192,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=San+Marino&days=7,62,0,0
+1758305221770,137,Forecast,200,OK,Thread Group WeatherAPI 1-12,text,true,,128101,214,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Saint+Vincent+and+the+Grenadines&days=7,63,0,0
+1758305221848,59,Current Weather,200,OK,Thread Group WeatherAPI 1-32,text,true,,1517,179,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Palau,59,0,0
+1758305221856,54,Current Weather,200,OK,Thread Group WeatherAPI 1-38,text,true,,1485,186,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Saudi+Arabia,53,0,0
+1758305221883,55,Current Weather,200,OK,Thread Group WeatherAPI 1-66,text,true,,1530,186,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Sierra+Leone,55,0,0
+1758305221908,54,Current Weather,200,OK,Thread Group WeatherAPI 1-12,text,true,,1490,182,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Slovenia,54,0,0
+1758305221858,122,Forecast,200,OK,Thread Group WeatherAPI 1-37,text,true,,127521,189,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Senegal&days=7,122,0,0
+1758305221906,84,Forecast,200,OK,Thread Group WeatherAPI 1-77,text,true,,126280,190,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Slovakia&days=7,56,0,0
+1758305221909,87,Forecast,200,OK,Thread Group WeatherAPI 1-32,text,true,,127223,197,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Solomon+Islands&days=7,58,0,0
+1758305221939,57,Current Weather,200,OK,Thread Group WeatherAPI 1-66,text,true,,1498,186,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=South+Africa,57,0,0
+1758305221981,59,Current Weather,200,OK,Thread Group WeatherAPI 1-37,text,true,,1528,185,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=South+Sudan,59,0,0
+1758305221963,86,Forecast,200,OK,Thread Group WeatherAPI 1-12,text,true,,125864,193,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=South+Korea&days=7,62,0,0
+1758305221997,55,Current Weather,200,OK,Thread Group WeatherAPI 1-32,text,true,,1497,183,40,40,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Sri+Lanka,55,0,0
+1758305222062,63,Current Weather,200,OK,Thread Group WeatherAPI 1-61,text,true,,1498,194,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=United+Arab+Emirates,63,0,0
+1758305222062,62,Current Weather,200,OK,Thread Group WeatherAPI 1-72,text,true,,1494,184,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Micronesia,53,0,0
+1758305221991,148,Forecast,200,OK,Thread Group WeatherAPI 1-77,text,true,,125940,187,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Spain&days=7,62,0,0
+1758305222126,63,Current Weather,200,OK,Thread Group WeatherAPI 1-72,text,true,,1482,179,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Syria,63,0,0
+1758305222126,79,Current Weather,200,OK,Thread Group WeatherAPI 1-7,text,true,,1570,183,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Argentina,79,0,0
+1758305222063,190,Current Weather,200,OK,Thread Group WeatherAPI 1-75,text,true,,1519,184,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Mauritania,190,0,127
+1758305222206,61,Current Weather,200,OK,Thread Group WeatherAPI 1-7,text,true,,1494,182,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Tanzania,61,0,0
+1758305222206,61,Current Weather,200,OK,Thread Group WeatherAPI 1-26,text,true,,1525,179,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Haiti,61,0,0
+1758305222126,157,Forecast,200,OK,Thread Group WeatherAPI 1-61,text,true,,125729,193,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Switzerland&days=7,63,0,0
+1758305221875,408,Forecast,200,OK,Thread Group WeatherAPI 1-79,text,true,,128022,192,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Seychelles&days=7,179,0,118
+1758305222190,96,Forecast,200,OK,Thread Group WeatherAPI 1-72,text,true,,125197,192,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Tajikistan&days=7,69,0,0
+1758305222127,172,Current Weather,200,OK,Thread Group WeatherAPI 1-51,text,true,,1531,180,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Gambia,172,0,116
+1758305222268,55,Current Weather,200,OK,Thread Group WeatherAPI 1-26,text,true,,1477,185,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Timor-Leste,53,0,0
+1758305222268,56,Current Weather,200,OK,Thread Group WeatherAPI 1-7,text,true,,1489,178,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Togo,56,0,0
+1758305222283,52,Current Weather,200,OK,Thread Group WeatherAPI 1-61,text,true,,1544,193,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Trinidad+and+Tobago,52,0,0
+1758305222300,57,Current Weather,200,OK,Thread Group WeatherAPI 1-51,text,true,,1485,186,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Turkmenistan,54,0,0
+1758305222053,315,Forecast,200,OK,Thread Group WeatherAPI 1-32,text,true,,126038,190,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Suriname&days=7,61,0,0
+1758305222207,183,Current Weather,200,OK,Thread Group WeatherAPI 1-29,text,true,,1482,182,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Maldives,183,0,117
+1758305222359,156,Current Weather,200,OK,Thread Group WeatherAPI 1-11,text,true,,1485,182,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Pakistan,155,0,0
+1758305222359,168,Current Weather,200,OK,Thread Group WeatherAPI 1-51,text,true,,1498,194,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=United+Arab+Emirates,168,0,0
+1758305222453,94,Current Weather,200,OK,Thread Group WeatherAPI 1-70,text,true,,1496,185,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Philippines,94,0,0
+1758305222453,97,Current Weather,200,OK,Thread Group WeatherAPI 1-71,text,true,,1500,181,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Ireland,97,0,0
+1758305222453,103,Current Weather,200,OK,Thread Group WeatherAPI 1-19,text,true,,1484,181,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Hungary,101,0,0
+1758305222283,289,Forecast,200,OK,Thread Group WeatherAPI 1-79,text,true,,126219,189,43,43,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Tunisia&days=7,62,0,0
+1758305222255,337,Forecast,200,OK,Thread Group WeatherAPI 1-75,text,true,,127446,190,43,43,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Thailand&days=7,80,0,0
+1758305222529,63,Current Weather,200,OK,Thread Group WeatherAPI 1-60,text,true,,1483,185,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=South+Korea,63,0,0
+1758305222529,65,Current Weather,200,OK,Thread Group WeatherAPI 1-51,text,true,,1499,181,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Vanuatu,65,0,0
+1758305222529,70,Current Weather,200,OK,Thread Group WeatherAPI 1-31,text,true,,1490,182,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Slovenia,65,0,0
+1758305222324,280,Forecast,200,OK,Thread Group WeatherAPI 1-26,text,true,,128217,188,43,43,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Tuvalu&days=7,66,0,0
+1758305222336,268,Forecast,200,OK,Thread Group WeatherAPI 1-61,text,true,,125595,189,43,43,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Ukraine&days=7,89,0,0
+1758305222557,73,Current Weather,200,OK,Thread Group WeatherAPI 1-19,text,true,,1474,181,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Vietnam,73,0,0
+1758305222551,152,Forecast,200,OK,Thread Group WeatherAPI 1-71,text,true,,126830,191,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Venezuela&days=7,78,0,0
+1758305222600,106,Current Weather,200,OK,Thread Group WeatherAPI 1-31,text,true,,1479,185,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Afghanistan,106,0,0
+1758305222593,113,Current Weather,200,OK,Thread Group WeatherAPI 1-75,text,true,,1486,180,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Zambia,113,0,0
+1758305222454,256,Current Weather,200,OK,Thread Group WeatherAPI 1-47,text,true,,1513,182,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Cambodia,256,0,153
+1758305222573,140,Forecast,200,OK,Thread Group WeatherAPI 1-79,text,true,,126195,187,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Yemen&days=7,124,0,0
+1758305222631,90,Current Weather,200,OK,Thread Group WeatherAPI 1-19,text,true,,1499,181,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Andorra,90,0,0
+1758305222392,364,Forecast,200,OK,Thread Group WeatherAPI 1-29,text,true,,126017,195,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=United+States&days=7,150,0,0
+1758305222703,82,Current Weather,200,OK,Thread Group WeatherAPI 1-71,text,true,,1532,193,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Antigua+and+Barbuda,82,0,0
+1758305222605,201,Forecast,200,OK,Thread Group WeatherAPI 1-26,text,true,,125113,189,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Albania&days=7,108,0,0
+1758305222275,532,Forecast,200,OK,Thread Group WeatherAPI 1-81,text,true,,127800,187,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Tonga&days=7,319,0,117
+1758305222703,109,Current Weather,200,OK,Thread Group WeatherAPI 1-43,text,true,,1492,180,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Serbia,109,0,0
+1758305222516,364,Forecast,200,OK,Thread Group WeatherAPI 1-11,text,true,,125308,192,45,45,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Uzbekistan&days=7,113,0,0
+1758305222714,166,Forecast,200,OK,Thread Group WeatherAPI 1-79,text,true,,126172,189,45,45,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Austria&days=7,92,0,0
+1758305222786,94,Current Weather,200,OK,Thread Group WeatherAPI 1-20,text,true,,1513,179,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Tonga,94,0,0
+1758305222786,96,Current Weather,200,OK,Thread Group WeatherAPI 1-38,text,true,,1492,181,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Somalia,96,0,0
+1758305222786,95,Current Weather,200,OK,Thread Group WeatherAPI 1-71,text,true,,1488,181,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Bahrain,95,0,0
+1758305222807,91,Current Weather,200,OK,Thread Group WeatherAPI 1-26,text,true,,1487,184,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Bangladesh,81,0,0
+1758305222756,167,Forecast,200,OK,Thread Group WeatherAPI 1-29,text,true,,127234,189,45,45,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Bahamas&days=7,142,0,0
+1758305222881,73,Current Weather,200,OK,Thread Group WeatherAPI 1-11,text,true,,1511,180,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Belize,73,0,0
+1758305222881,73,Current Weather,200,OK,Thread Group WeatherAPI 1-58,text,true,,1490,180,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Turkey,73,0,0
+1758305222881,73,Current Weather,200,OK,Thread Group WeatherAPI 1-79,text,true,,1517,179,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Benin,63,0,0
+1758305222704,272,Current Weather,200,OK,Thread Group WeatherAPI 1-50,text,true,,1475,181,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Eritrea,272,0,179
+1758305222881,115,Forecast,200,OK,Thread Group WeatherAPI 1-20,text,true,,127087,188,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Bhutan&days=7,89,0,0
+1758305222596,400,Forecast,200,OK,Thread Group WeatherAPI 1-51,text,true,,126580,189,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=country&days=7,117,0,0
+1758305222883,113,Forecast,200,OK,Thread Group WeatherAPI 1-71,text,true,,124859,204,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Bosnia+and+Herzegovina&days=7,87,0,0
+1758305222923,73,Current Weather,200,OK,Thread Group WeatherAPI 1-29,text,true,,1530,180,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Brazil,73,0,0
+1758305222807,191,Forecast,200,OK,Thread Group WeatherAPI 1-81,text,true,,128092,190,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Barbados&days=7,91,0,0
+1758305222952,73,Current Weather,200,OK,Thread Group WeatherAPI 1-56,text,true,,1500,181,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Morocco,73,0,0
+1758305222952,73,Current Weather,200,OK,Thread Group WeatherAPI 1-77,text,true,,1491,180,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Taiwan,73,0,0
+1758305222956,105,Forecast,200,OK,Thread Group WeatherAPI 1-79,text,true,,127080,188,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Brunei&days=7,76,0,0
+1758305222707,362,Forecast,200,OK,Thread Group WeatherAPI 1-31,text,true,,125866,189,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Armenia&days=7,191,0,0
+1758305223026,62,Current Weather,200,OK,Thread Group WeatherAPI 1-77,text,true,,1491,178,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Chad,62,0,0
+1758305223026,62,Current Weather,200,OK,Thread Group WeatherAPI 1-57,text,true,,1532,193,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Antigua+and+Barbuda,62,0,0
+1758305223069,54,Current Weather,200,OK,Thread Group WeatherAPI 1-31,text,true,,1480,179,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=China,54,0,0
+1758305223089,54,Current Weather,200,OK,Thread Group WeatherAPI 1-57,text,true,,1492,181,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Comoros,54,0,0
+1758305223062,89,Forecast,200,OK,Thread Group WeatherAPI 1-79,text,true,,125815,187,45,45,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Chile&days=7,59,0,0
+1758305222997,168,Forecast,200,OK,Thread Group WeatherAPI 1-51,text,true,,127325,190,45,45,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Cambodia&days=7,72,0,0
+1758305223144,57,Current Weather,200,OK,Thread Group WeatherAPI 1-57,text,true,,1525,184,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Costa+Rica,57,0,0
+1758305223144,59,Current Weather,200,OK,Thread Group WeatherAPI 1-64,text,true,,1476,181,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Austria,57,0,0
+1758305223144,61,Current Weather,200,OK,Thread Group WeatherAPI 1-7,text,true,,1481,180,45,45,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Uganda,61,0,0
+1758305222674,535,Forecast,200,OK,Thread Group WeatherAPI 1-83,text,true,,126973,188,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Angola&days=7,300,0,201
+1758305222999,225,Forecast,200,OK,Thread Group WeatherAPI 1-81,text,true,,125566,188,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Canada&days=7,124,0,0
+1758305223152,89,Forecast,200,OK,Thread Group WeatherAPI 1-79,text,true,,126711,197,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Cote+d%27Ivoire&days=7,57,0,0
+1758305222978,263,Forecast,200,OK,Thread Group WeatherAPI 1-50,text,true,,127133,194,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Burkina+Faso&days=7,110,0,0
+1758305223202,53,Current Weather,200,OK,Thread Group WeatherAPI 1-57,text,true,,1524,178,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Cuba,53,0,0
+1758305223202,55,Current Weather,200,OK,Thread Group WeatherAPI 1-36,text,true,,1513,179,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Tonga,55,0,0
+1758305223124,135,Forecast,200,OK,Thread Group WeatherAPI 1-31,text,true,,126988,187,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Congo&days=7,74,0,0
+1758305223242,61,Current Weather,200,OK,Thread Group WeatherAPI 1-6,text,true,,1555,195,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Saint+Kitts+and+Nevis,61,0,0
+1758305223242,61,Current Weather,200,OK,Thread Group WeatherAPI 1-79,text,true,,1491,182,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Djibouti,61,0,0
+1758305223224,93,Forecast,200,OK,Thread Group WeatherAPI 1-81,text,true,,126399,189,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Denmark&days=7,67,0,0
+1758305223257,90,Forecast,200,OK,Thread Group WeatherAPI 1-57,text,true,,126727,200,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Dominican+Republic&days=7,59,0,0
+1758305223304,54,Current Weather,200,OK,Thread Group WeatherAPI 1-6,text,true,,1527,185,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=El+Salvador,54,0,0
+1758305223304,57,Current Weather,200,OK,Thread Group WeatherAPI 1-67,text,true,,1491,181,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Burundi,54,0,0
+1758305222997,404,Current Weather,200,OK,Thread Group WeatherAPI 1-71,text,true,,1511,184,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Cabo+Verde,64,0,0
+1758305223317,87,Forecast,200,OK,Thread Group WeatherAPI 1-81,text,true,,126699,189,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Eritrea&days=7,59,0,0
+1758305223347,57,Current Weather,200,OK,Thread Group WeatherAPI 1-57,text,true,,1498,181,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Estonia,57,0,0
+1758305223347,58,Current Weather,200,OK,Thread Group WeatherAPI 1-60,text,true,,1496,182,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Zimbabwe,58,0,0
+1758305223204,205,Forecast,200,OK,Thread Group WeatherAPI 1-64,text,true,,125357,188,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Cyprus&days=7,63,0,0
+1758305223074,344,Forecast,200,OK,Thread Group WeatherAPI 1-85,text,true,,126618,190,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Colombia&days=7,232,0,120
+1758305223362,56,Current Weather,200,OK,Thread Group WeatherAPI 1-67,text,true,,1496,182,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Ethiopia,56,0,0
+1758305222875,547,Forecast,200,OK,Thread Group WeatherAPI 1-84,text,true,,126667,189,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Belgium&days=7,306,0,152
+1758305223402,55,Current Weather,200,OK,Thread Group WeatherAPI 1-53,text,true,,1486,187,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Liechtenstein,55,0,0
+1758305223402,55,Current Weather,200,OK,Thread Group WeatherAPI 1-71,text,true,,1497,178,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Fiji,55,0,0
+1758305223404,86,Forecast,200,OK,Thread Group WeatherAPI 1-81,text,true,,126308,189,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Finland&days=7,57,0,0
+1758305223406,93,Forecast,200,OK,Thread Group WeatherAPI 1-60,text,true,,127993,187,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Gabon&days=7,58,0,0
+1758305223474,58,Current Weather,200,OK,Thread Group WeatherAPI 1-47,text,true,,1521,183,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Australia,58,0,0
+1758305223474,58,Current Weather,200,OK,Thread Group WeatherAPI 1-75,text,true,,1570,183,44,44,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Argentina,58,0,0
+1758305223458,92,Forecast,200,OK,Thread Group WeatherAPI 1-71,text,true,,125236,188,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Greece&days=7,62,0,0
+1758305223359,213,Forecast,400,Bad Request,Thread Group WeatherAPI 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",711,190,44,44,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Eswatini&days=7,213,0,0
+1758305223499,84,Forecast,200,OK,Thread Group WeatherAPI 1-60,text,true,,127974,188,43,43,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Guinea&days=7,57,0,0
+1758305223534,55,Current Weather,200,OK,Thread Group WeatherAPI 1-47,text,true,,1535,187,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Guinea-Bissau,55,0,0
+1758305223534,65,Current Weather,200,OK,Thread Group WeatherAPI 1-23,text,true,,1503,182,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Portugal,65,0,0
+1758305223550,61,Current Weather,200,OK,Thread Group WeatherAPI 1-71,text,true,,1525,179,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Haiti,61,0,0
+1758305223419,205,Forecast,200,OK,Thread Group WeatherAPI 1-67,text,true,,126284,189,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Germany&days=7,75,0,0
+1758305223584,52,Current Weather,200,OK,Thread Group WeatherAPI 1-60,text,true,,1529,182,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Honduras,52,0,0
+1758305223475,169,Current Weather,200,OK,Thread Group WeatherAPI 1-87,text,true,,1525,181,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Grenada,169,0,113
+1758305223600,55,Current Weather,200,OK,Thread Group WeatherAPI 1-23,text,true,,1512,181,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Iceland,54,0,0
+1758305223637,62,Current Weather,200,OK,Thread Group WeatherAPI 1-60,text,true,,1490,183,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Indonesia,62,0,0
+1758305223637,62,Current Weather,200,OK,Thread Group WeatherAPI 1-38,text,true,,1512,181,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Bolivia,62,0,0
+1758305223275,440,Forecast,200,OK,Thread Group WeatherAPI 1-86,text,true,,125423,187,43,43,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Egypt&days=7,231,0,109
+1758305223625,92,Forecast,200,OK,Thread Group WeatherAPI 1-67,text,true,,125671,187,43,43,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=India&days=7,59,0,0
+1758305223534,195,Forecast,200,OK,Thread Group WeatherAPI 1-75,text,true,,126649,188,43,43,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Guyana&days=7,68,0,0
+1758305223701,55,Current Weather,200,OK,Thread Group WeatherAPI 1-38,text,true,,1511,181,43,43,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Jamaica,55,0,0
+1758305223716,63,Current Weather,200,OK,Thread Group WeatherAPI 1-86,text,true,,1482,179,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Japan,63,0,0
+1758305223701,83,Forecast,200,OK,Thread Group WeatherAPI 1-60,text,true,,125747,187,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Italy&days=7,55,0,0
+1758305223717,85,Forecast,200,OK,Thread Group WeatherAPI 1-67,text,true,,125439,188,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Jordan&days=7,64,0,0
+1758305223655,149,Forecast,200,OK,Thread Group WeatherAPI 1-23,text,true,,125638,186,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Iraq&days=7,60,0,0
+1758305223590,217,Forecast,200,OK,Thread Group WeatherAPI 1-47,text,true,,125655,189,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Hungary&days=7,78,0,0
+1758305223785,61,Current Weather,200,OK,Thread Group WeatherAPI 1-60,text,true,,1497,182,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Kiribati,61,0,0
+1758305223785,61,Current Weather,200,OK,Thread Group WeatherAPI 1-68,text,true,,1493,185,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=New+Zealand,61,0,0
+1758305223676,174,Current Weather,200,OK,Thread Group WeatherAPI 1-88,text,true,,1500,181,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Ireland,173,0,114
+1758305223785,67,Current Weather,200,OK,Thread Group WeatherAPI 1-20,text,true,,1491,181,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Burundi,67,0,0
+1758305223802,54,Current Weather,200,OK,Thread Group WeatherAPI 1-67,text,true,,1496,180,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Kosovo,53,0,0
+1758305223828,57,Current Weather,200,OK,Thread Group WeatherAPI 1-56,text,true,,1506,198,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Central+African+Republic,57,0,0
+1758305223804,84,Forecast,200,OK,Thread Group WeatherAPI 1-23,text,true,,125889,188,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Kuwait&days=7,54,0,0
+1758305223780,117,Forecast,200,OK,Thread Group WeatherAPI 1-86,text,true,,125982,187,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Kenya&days=7,63,0,0
+1758305223851,116,Current Weather,200,OK,Thread Group WeatherAPI 1-88,text,true,,1487,180,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Latvia,116,0,0
+1758305223898,69,Current Weather,200,OK,Thread Group WeatherAPI 1-86,text,true,,1486,187,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Liechtenstein,69,0,0
+1758305223857,137,Forecast,200,OK,Thread Group WeatherAPI 1-67,text,true,,125918,189,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Lesotho&days=7,110,0,0
+1758305223847,159,Forecast,200,OK,Thread Group WeatherAPI 1-68,text,true,,127339,186,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Laos&days=7,125,0,0
+1758305223966,56,Current Weather,200,OK,Thread Group WeatherAPI 1-51,text,true,,1481,181,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Croatia,56,0,0
+1758305223966,56,Current Weather,200,OK,Thread Group WeatherAPI 1-83,text,true,,1502,188,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Czech+Republic,54,0,0
+1758305224007,59,Current Weather,200,OK,Thread Group WeatherAPI 1-68,text,true,,1511,182,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Malaysia,56,0,0
+1758305223874,211,Current Weather,200,OK,Thread Group WeatherAPI 1-89,text,true,,1538,181,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Liberia,211,0,152
+1758305223886,234,Forecast,200,OK,Thread Group WeatherAPI 1-56,text,true,,126115,187,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Libya&days=7,100,0,0
+1758305224067,56,Current Weather,200,OK,Thread Group WeatherAPI 1-68,text,true,,1477,179,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Malta,56,0,0
+1758305224067,56,Current Weather,200,OK,Thread Group WeatherAPI 1-36,text,true,,1519,181,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Ecuador,56,0,0
+1758305223967,174,Current Weather,200,OK,Thread Group WeatherAPI 1-82,text,true,,1526,181,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Uruguay,174,0,120
+1758305223995,152,Forecast,200,OK,Thread Group WeatherAPI 1-67,text,true,,125430,188,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Malawi&days=7,124,0,0
+1758305224024,135,Forecast,200,OK,Thread Group WeatherAPI 1-51,text,true,,126877,186,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Mali&days=7,123,0,0
+1758305224121,54,Current Weather,200,OK,Thread Group WeatherAPI 1-56,text,true,,1505,183,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Mauritius,54,0,0
+1758305224121,60,Current Weather,200,OK,Thread Group WeatherAPI 1-42,text,true,,1499,181,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Vanuatu,60,0,0
+1758305224148,65,Current Weather,200,OK,Thread Group WeatherAPI 1-67,text,true,,1477,180,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Monaco,65,0,0
+1758305224125,91,Forecast,200,OK,Thread Group WeatherAPI 1-36,text,true,,126537,188,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Mexico&days=7,60,0,0
+1758305224160,56,Current Weather,200,OK,Thread Group WeatherAPI 1-51,text,true,,1495,182,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Mongolia,56,0,0
+1758305224182,61,Current Weather,200,OK,Thread Group WeatherAPI 1-42,text,true,,1500,181,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Morocco,59,0,0
+1758305224216,86,Forecast,200,OK,Thread Group WeatherAPI 1-36,text,true,,126934,192,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Mozambique&days=7,59,0,0
+1758305224248,54,Current Weather,200,OK,Thread Group WeatherAPI 1-42,text,true,,1499,181,42,42,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Namibia,54,0,0
+1758305224176,128,Forecast,200,OK,Thread Group WeatherAPI 1-56,text,true,,126010,192,42,42,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Montenegro&days=7,61,0,0
+1758305224248,58,Current Weather,200,OK,Thread Group WeatherAPI 1-84,text,true,,1513,179,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Ghana,57,0,0
+1758305224302,59,Current Weather,200,OK,Thread Group WeatherAPI 1-36,text,true,,1487,179,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Nepal,59,0,0
+1758305224302,62,Current Weather,200,OK,Thread Group WeatherAPI 1-81,text,true,,1522,183,40,40,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Guatemala,62,0,0
+1758305224143,273,Forecast,200,OK,Thread Group WeatherAPI 1-82,text,true,,125743,189,40,40,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Moldova&days=7,73,0,0
+1758305224365,54,Current Weather,200,OK,Thread Group WeatherAPI 1-81,text,true,,1513,183,40,40,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Nicaragua,54,0,0
+1758305224365,54,Current Weather,200,OK,Thread Group WeatherAPI 1-43,text,true,,1481,181,40,40,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Belarus,54,0,0
+1758305224365,70,Current Weather,200,OK,Thread Group WeatherAPI 1-69,text,true,,1519,181,39,39,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Ecuador,54,0,0
+1758305224076,366,Forecast,200,OK,Thread Group WeatherAPI 1-90,text,true,,127486,198,39,39,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Marshall+Islands&days=7,188,0,115
+1758305224086,366,Current Weather,200,OK,Thread Group WeatherAPI 1-89,text,true,,1519,184,39,39,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Mauritania,53,0,0
+1758305224421,59,Current Weather,200,OK,Thread Group WeatherAPI 1-26,text,true,,1494,182,40,40,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Botswana,59,0,0
+1758305224421,61,Current Weather,200,OK,Thread Group WeatherAPI 1-81,text,true,,1528,181,39,39,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Nigeria,61,0,0
+1758305224443,55,Current Weather,200,OK,Thread Group WeatherAPI 1-90,text,true,,1533,189,39,39,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=North+Macedonia,55,0,0
+1758305224453,54,Current Weather,200,OK,Thread Group WeatherAPI 1-89,text,true,,1480,180,39,39,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Norway,54,0,0
+1758305224483,66,Current Weather,200,OK,Thread Group WeatherAPI 1-81,text,true,,1485,182,39,39,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Pakistan,66,0,0
+1758305224416,141,Forecast,200,OK,Thread Group WeatherAPI 1-82,text,true,,126574,187,38,38,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Niger&days=7,64,0,0
+1758305224508,55,Current Weather,200,OK,Thread Group WeatherAPI 1-89,text,true,,1480,183,38,38,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Palestine,53,0,0
+1758305224303,279,Forecast,200,OK,Thread Group WeatherAPI 1-42,text,true,,127036,193,38,38,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Netherlands&days=7,132,0,0
+1758305224557,59,Current Weather,200,OK,Thread Group WeatherAPI 1-29,text,true,,1511,182,38,38,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Cameroon,59,0,0
+1758305224499,122,Forecast,200,OK,Thread Group WeatherAPI 1-90,text,true,,126077,187,38,38,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Palau&days=7,122,0,0
+1758305224557,64,Current Weather,200,OK,Thread Group WeatherAPI 1-82,text,true,,1517,180,38,38,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Panama,64,0,0
+1758305224558,68,Current Weather,200,OK,Thread Group WeatherAPI 1-62,text,true,,1528,181,38,38,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Nigeria,68,0,0
+1758305224582,54,Current Weather,200,OK,Thread Group WeatherAPI 1-42,text,true,,1507,182,38,38,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Paraguay,53,0,0
+1758305224275,385,Forecast,200,OK,Thread Group WeatherAPI 1-91,text,true,,126773,187,38,38,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Nauru&days=7,191,0,112
+1758305224622,68,Current Weather,200,OK,Thread Group WeatherAPI 1-90,text,true,,1496,185,39,39,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Philippines,63,0,0
+1758305224636,54,Current Weather,200,OK,Thread Group WeatherAPI 1-42,text,true,,1479,179,39,39,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Qatar,54,0,0
+1758305224436,257,Forecast,200,OK,Thread Group WeatherAPI 1-69,text,true,,125722,193,39,39,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=North+Korea&days=7,76,0,0
+1758305224617,119,Forecast,200,OK,Thread Group WeatherAPI 1-29,text,true,,126509,186,39,39,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Peru&days=7,68,0,0
+1758305224674,66,Current Weather,200,OK,Thread Group WeatherAPI 1-28,text,true,,1533,180,39,39,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Mexico,66,0,0
+1758305224691,59,Current Weather,200,OK,Thread Group WeatherAPI 1-90,text,true,,1488,180,39,39,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Rwanda,59,0,0
+1758305224564,212,Forecast,200,OK,Thread Group WeatherAPI 1-89,text,true,,127697,198,39,39,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Papua+New+Guinea&days=7,84,0,0
+1758305224660,133,Forecast,200,OK,Thread Group WeatherAPI 1-91,text,true,,125350,189,39,39,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Romania&days=7,66,0,0
+1758305224627,167,Forecast,200,OK,Thread Group WeatherAPI 1-62,text,true,,125717,190,39,39,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Portugal&days=7,126,0,0
+1758305224741,55,Current Weather,200,OK,Thread Group WeatherAPI 1-28,text,true,,1488,179,39,39,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Samoa,55,0,0
+1758305224741,55,Current Weather,200,OK,Thread Group WeatherAPI 1-86,text,true,,1507,184,39,39,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Madagascar,55,0,0
+1758305224763,57,Current Weather,200,OK,Thread Group WeatherAPI 1-50,text,true,,1528,182,39,39,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Dominica,57,0,0
+1758305224692,140,Forecast,200,OK,Thread Group WeatherAPI 1-42,text,true,,127770,203,39,39,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Saint+Kitts+and+Nevis&days=7,61,0,0
+1758305224794,62,Current Weather,200,OK,Thread Group WeatherAPI 1-91,text,true,,1485,186,39,39,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Saudi+Arabia,62,0,0
+1758305224674,186,Current Weather,200,OK,Thread Group WeatherAPI 1-93,text,true,,1496,180,39,39,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Russia,186,0,123
+1758305224776,92,Forecast,200,OK,Thread Group WeatherAPI 1-89,text,true,,128397,203,39,39,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Sao+Tome+and+Principe&days=7,60,0,0
+1758305224737,136,Forecast,200,OK,Thread Group WeatherAPI 1-29,text,true,,128101,214,39,39,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Saint+Vincent+and+the+Grenadines&days=7,135,0,0
+1758305224475,403,Forecast,200,OK,Thread Group WeatherAPI 1-92,text,true,,125495,186,40,40,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Oman&days=7,276,0,113
+1758305224833,64,Current Weather,200,OK,Thread Group WeatherAPI 1-1,text,true,,1486,180,40,40,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Jordan,64,0,0
+1758305224868,64,Current Weather,200,OK,Thread Group WeatherAPI 1-89,text,true,,1506,189,40,40,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Solomon+Islands,62,0,0
+1758305224794,162,Forecast,200,OK,Thread Group WeatherAPI 1-62,text,true,,127543,189,40,40,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Senegal&days=7,136,0,0
+1758305224861,94,Current Weather,200,OK,Thread Group WeatherAPI 1-93,text,true,,1490,182,40,40,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Slovenia,94,0,0
+1758305224898,60,Current Weather,200,OK,Thread Group WeatherAPI 1-1,text,true,,1528,185,40,40,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=South+Sudan,58,0,0
+1758305224832,139,Current Weather,200,OK,Thread Group WeatherAPI 1-42,text,true,,1491,183,40,40,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Singapore,139,0,0
+1758305224821,164,Forecast,200,OK,Thread Group WeatherAPI 1-50,text,true,,128156,194,40,40,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Sierra+Leone&days=7,62,0,0
+1758305224933,64,Current Weather,200,OK,Thread Group WeatherAPI 1-89,text,true,,1511,179,40,40,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Spain,64,0,0
+1758305224957,60,Current Weather,200,OK,Thread Group WeatherAPI 1-85,text,true,,1504,181,40,40,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Georgia,60,0,0
+1758305224957,60,Current Weather,200,OK,Thread Group WeatherAPI 1-93,text,true,,1489,179,40,40,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Sudan,60,0,0
+1758305224857,162,Forecast,200,OK,Thread Group WeatherAPI 1-91,text,true,,126177,190,40,40,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Slovakia&days=7,71,0,0
+1758305224873,161,Forecast,200,OK,Thread Group WeatherAPI 1-29,text,true,,127637,189,40,40,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Somalia&days=7,59,0,0
+1758305224985,56,Current Weather,200,OK,Thread Group WeatherAPI 1-50,text,true,,1475,185,40,40,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Switzerland,56,0,0
+1758305224878,191,Forecast,200,OK,Thread Group WeatherAPI 1-92,text,true,,125864,193,40,40,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=South+Korea&days=7,61,0,0
+1758305225018,55,Current Weather,200,OK,Thread Group WeatherAPI 1-85,text,true,,1491,180,40,40,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Taiwan,55,0,0
+1758305224998,83,Forecast,200,OK,Thread Group WeatherAPI 1-89,text,true,,125099,187,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Syria&days=7,58,0,0
+1758305225035,59,Current Weather,200,OK,Thread Group WeatherAPI 1-29,text,true,,1497,182,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Thailand,59,0,0
+1758305224956,152,Forecast,200,OK,Thread Group WeatherAPI 1-62,text,true,,128640,191,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Sri+Lanka&days=7,61,0,0
+1758305225070,58,Current Weather,200,OK,Thread Group WeatherAPI 1-87,text,true,,1476,178,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Iran,53,0,0
+1758305225070,58,Current Weather,200,OK,Thread Group WeatherAPI 1-92,text,true,,1489,178,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Togo,58,0,0
+1758305225042,93,Forecast,200,OK,Thread Group WeatherAPI 1-50,text,true,,125829,193,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Timor-Leste&days=7,61,0,0
+1758305225108,64,Current Weather,200,OK,Thread Group WeatherAPI 1-62,text,true,,1485,186,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Turkmenistan,64,0,0
+1758305224959,220,Forecast,200,OK,Thread Group WeatherAPI 1-1,text,true,,126120,190,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Suriname&days=7,78,0,0
+1758305225129,57,Current Weather,200,OK,Thread Group WeatherAPI 1-92,text,true,,1481,180,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Uganda,57,0,0
+1758305225179,59,Current Weather,200,OK,Thread Group WeatherAPI 1-47,text,true,,1495,184,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Kyrgyzstan,59,0,0
+1758305225179,66,Current Weather,200,OK,Thread Group WeatherAPI 1-1,text,true,,1535,188,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=United+Kingdom,66,0,0
+1758305225096,167,Forecast,200,OK,Thread Group WeatherAPI 1-29,text,true,,125131,188,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Turkey&days=7,166,0,0
+1758305225187,81,Forecast,200,OK,Thread Group WeatherAPI 1-92,text,true,,126189,195,40,40,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=United+States&days=7,61,0,0
+1758305225018,280,Forecast,200,OK,Thread Group WeatherAPI 1-93,text,true,,125100,192,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Tajikistan&days=7,150,0,0
+1758305225239,58,Current Weather,200,OK,Thread Group WeatherAPI 1-77,text,true,,1505,179,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Congo,58,0,0
+1758305225239,59,Current Weather,200,OK,Thread Group WeatherAPI 1-47,text,true,,1526,181,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Uruguay,59,0,0
+1758305225240,58,Current Weather,200,OK,Thread Group WeatherAPI 1-82,text,true,,1473,180,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Poland,58,0,0
+1758305225173,130,Forecast,200,OK,Thread Group WeatherAPI 1-62,text,true,,125802,202,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=United+Arab+Emirates&days=7,129,0,0
+1758305225109,203,Current Weather,200,OK,Thread Group WeatherAPI 1-76,text,true,,1487,179,40,40,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Nepal,203,0,131
+1758305225275,73,Current Weather,200,OK,Thread Group WeatherAPI 1-32,text,true,,1535,188,40,40,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=United+Kingdom,73,0,0
+1758305225299,67,Current Weather,200,OK,Thread Group WeatherAPI 1-47,text,true,,1475,179,40,40,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Yemen,67,0,0
+1758305225129,256,Forecast,200,OK,Thread Group WeatherAPI 1-87,text,true,,128217,188,40,40,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Tuvalu&days=7,77,0,0
+1758305225298,126,Forecast,200,OK,Thread Group WeatherAPI 1-93,text,true,,126830,191,40,40,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Venezuela&days=7,70,0,0
+1758305225364,60,Current Weather,200,OK,Thread Group WeatherAPI 1-83,text,true,,1482,182,40,40,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Maldives,60,0,0
+1758305225364,62,Current Weather,200,OK,Thread Group WeatherAPI 1-88,text,true,,1498,184,40,40,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Luxembourg,60,0,0
+1758305225364,63,Current Weather,200,OK,Thread Group WeatherAPI 1-90,text,true,,1494,184,40,40,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=San+Marino,63,0,0
+1758305225386,70,Current Weather,200,OK,Thread Group WeatherAPI 1-87,text,true,,1483,181,40,40,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Albania,70,0,0
+1758305225276,180,Current Weather,200,OK,Thread Group WeatherAPI 1-96,text,true,,1487,186,40,40,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Vatican+City,180,0,127
+1758305225269,196,Forecast,200,OK,Thread Group WeatherAPI 1-92,text,true,,127848,189,40,40,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Vanuatu&days=7,85,0,0
+1758305225299,171,Forecast,200,OK,Thread Group WeatherAPI 1-82,text,true,,125420,188,40,40,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Zambia&days=7,69,0,0
+1758305225075,407,Forecast,200,OK,Thread Group WeatherAPI 1-95,text,true,,127689,187,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Tonga&days=7,264,0,112
+1758305225425,57,Current Weather,200,OK,Thread Group WeatherAPI 1-83,text,true,,1499,181,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Andorra,57,0,0
+1758305225350,135,Forecast,200,OK,Thread Group WeatherAPI 1-32,text,true,,126558,189,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=country&days=7,132,0,0
+1758305225457,54,Current Weather,200,OK,Thread Group WeatherAPI 1-87,text,true,,1532,193,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Antigua+and+Barbuda,54,0,0
+1758305225471,66,Current Weather,200,OK,Thread Group WeatherAPI 1-82,text,true,,1521,183,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Australia,66,0,0
+1758305225425,128,Current Weather,200,OK,Thread Group WeatherAPI 1-86,text,true,,1507,184,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Seychelles,128,0,0
+1758305225425,183,Forecast,200,OK,Thread Group WeatherAPI 1-93,text,true,,126020,189,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Algeria&days=7,126,0,0
+1758305225465,147,Forecast,200,OK,Thread Group WeatherAPI 1-92,text,true,,125881,189,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Armenia&days=7,60,0,0
+1758305225554,58,Current Weather,200,OK,Thread Group WeatherAPI 1-86,text,true,,1481,181,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Belarus,58,0,0
+1758305225512,100,Current Weather,200,OK,Thread Group WeatherAPI 1-87,text,true,,1487,184,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Bangladesh,100,0,0
+1758305225554,61,Current Weather,200,OK,Thread Group WeatherAPI 1-64,text,true,,1531,180,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Gambia,61,0,0
+1758305225428,199,Forecast,200,OK,Thread Group WeatherAPI 1-90,text,true,,126965,188,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Angola&days=7,67,0,0
+1758305225538,118,Forecast,200,OK,Thread Group WeatherAPI 1-82,text,true,,128092,190,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Barbados&days=7,77,0,0
+1758305225609,54,Current Weather,200,OK,Thread Group WeatherAPI 1-93,text,true,,1489,181,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Belgium,54,0,0
+1758305225609,57,Current Weather,200,OK,Thread Group WeatherAPI 1-42,text,true,,1497,180,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Sweden,57,0,0
+1758305225613,59,Current Weather,200,OK,Thread Group WeatherAPI 1-86,text,true,,1517,179,40,40,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Benin,59,0,0
+1758305225485,217,Forecast,200,OK,Thread Group WeatherAPI 1-32,text,true,,125870,189,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Bahrain&days=7,122,0,0
+1758305225664,53,Current Weather,200,OK,Thread Group WeatherAPI 1-93,text,true,,1530,180,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Brazil,53,0,0
+1758305225664,56,Current Weather,200,OK,Thread Group WeatherAPI 1-91,text,true,,1494,182,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Tanzania,56,0,0
+1758305225513,211,Current Weather,200,OK,Thread Group WeatherAPI 1-94,text,true,,1498,186,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=South+Africa,211,0,155
+1758305225428,298,Forecast,200,OK,Thread Group WeatherAPI 1-88,text,true,,126173,192,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Luxembourg&days=7,83,0,0
+1758305225613,135,Forecast,200,OK,Thread Group WeatherAPI 1-92,text,true,,126390,188,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Belize&days=7,69,0,0
+1758305225656,94,Forecast,200,OK,Thread Group WeatherAPI 1-82,text,true,,125971,190,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Botswana&days=7,60,0,0
+1758305225613,140,Forecast,200,OK,Thread Group WeatherAPI 1-87,text,true,,127299,188,41,41,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Bhutan&days=7,65,0,0
+1758305225703,57,Current Weather,200,OK,Thread Group WeatherAPI 1-32,text,true,,1524,186,41,41,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Burkina+Faso,57,0,0
+1758305225721,63,Current Weather,200,OK,Thread Group WeatherAPI 1-91,text,true,,1511,184,40,40,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Cabo+Verde,63,0,0
+1758305225718,94,Forecast,200,OK,Thread Group WeatherAPI 1-93,text,true,,125571,189,40,40,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Burundi&days=7,62,0,0
+1758305225673,156,Forecast,200,OK,Thread Group WeatherAPI 1-86,text,true,,127117,188,40,40,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Brunei&days=7,138,0,0
+1758305225783,55,Current Weather,200,OK,Thread Group WeatherAPI 1-75,text,true,,1495,184,39,39,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Kazakhstan,55,0,0
+1758305225783,55,Current Weather,200,OK,Thread Group WeatherAPI 1-50,text,true,,1489,181,39,39,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Ukraine,55,0,0
+1758305225785,80,Forecast,200,OK,Thread Group WeatherAPI 1-91,text,true,,125815,187,39,39,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Chile&days=7,65,0,0
+1758305225812,65,Current Weather,200,OK,Thread Group WeatherAPI 1-93,text,true,,1480,179,40,40,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=China,65,0,0
+1758305225749,138,Current Weather,200,OK,Thread Group WeatherAPI 1-92,text,true,,1505,180,39,39,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Canada,138,0,0
+1758305225840,67,Current Weather,200,OK,Thread Group WeatherAPI 1-75,text,true,,1492,181,39,39,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Comoros,67,0,0
+1758305225475,441,Forecast,200,OK,Thread Group WeatherAPI 1-97,text,true,,126165,189,39,39,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Austria&days=7,224,0,138
+1758305225750,166,Forecast,200,OK,Thread Group WeatherAPI 1-82,text,true,,126351,206,39,39,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Central+African+Republic&days=7,134,0,0
+1758305225866,129,Current Weather,200,OK,Thread Group WeatherAPI 1-70,text,true,,1487,186,38,38,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Vatican+City,129,0,0
+1758305225888,109,Current Weather,200,OK,Thread Group WeatherAPI 1-92,text,true,,1525,184,38,38,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Costa+Rica,107,0,0
+1758305225908,89,Current Weather,200,OK,Thread Group WeatherAPI 1-75,text,true,,1526,189,38,38,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Cote+d%27Ivoire,87,0,0
+1758305225840,164,Forecast,200,OK,Thread Group WeatherAPI 1-50,text,true,,126533,190,37,37,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Colombia&days=7,75,0,0
+1758305225725,278,Forecast,200,OK,Thread Group WeatherAPI 1-94,text,true,,127325,190,37,37,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Cambodia&days=7,75,0,0
+1758305225865,138,Current Weather,200,OK,Thread Group WeatherAPI 1-91,text,true,,1505,179,37,37,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Congo,138,0,0
+1758305225955,52,Current Weather,200,OK,Thread Group WeatherAPI 1-79,text,true,,1505,191,37,37,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Equatorial+Guinea,52,0,0
+1758305225955,54,Current Weather,200,OK,Thread Group WeatherAPI 1-47,text,true,,1479,185,36,36,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Afghanistan,54,0,0
+1758305225997,53,Current Weather,200,OK,Thread Group WeatherAPI 1-70,text,true,,1524,178,36,36,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Cuba,53,0,0
+1758305225916,150,Forecast,200,OK,Thread Group WeatherAPI 1-97,text,true,,125587,189,36,36,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Croatia&days=7,87,0,0
+1758305226004,62,Current Weather,200,OK,Thread Group WeatherAPI 1-94,text,true,,1496,181,36,36,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Denmark,62,0,0
+1758305226066,56,Current Weather,200,OK,Thread Group WeatherAPI 1-78,text,true,,1491,183,37,37,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Singapore,56,0,0
+1758305226066,56,Current Weather,200,OK,Thread Group WeatherAPI 1-95,text,true,,1490,184,37,37,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Azerbaijan,56,0,0
+1758305226066,57,Current Weather,200,OK,Thread Group WeatherAPI 1-97,text,true,,1519,181,37,37,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Ecuador,56,0,0
+1758305225998,154,Forecast,200,OK,Thread Group WeatherAPI 1-75,text,true,,125446,188,37,37,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Cyprus&days=7,68,0,0
+1758305226005,163,Forecast,200,OK,Thread Group WeatherAPI 1-91,text,true,,126513,190,37,37,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Djibouti&days=7,137,0,0
+1758305226123,53,Current Weather,200,OK,Thread Group WeatherAPI 1-57,text,true,,1483,180,37,37,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=France,53,0,0
+1758305226123,59,Current Weather,200,OK,Thread Group WeatherAPI 1-19,text,true,,1490,184,36,36,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Azerbaijan,53,0,0
+1758305226123,59,Current Weather,200,OK,Thread Group WeatherAPI 1-78,text,true,,1505,191,36,36,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Equatorial+Guinea,53,0,0
+1758305226051,149,Forecast,200,OK,Thread Group WeatherAPI 1-70,text,true,,126697,200,36,36,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Dominican+Republic&days=7,65,0,0
+1758305226123,104,Forecast,200,OK,Thread Group WeatherAPI 1-95,text,true,,126599,189,36,36,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Eritrea&days=7,59,0,0
+1758305226183,63,Current Weather,200,OK,Thread Group WeatherAPI 1-64,text,true,,1512,181,36,36,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Bolivia,63,0,0
+1758305226183,63,Current Weather,200,OK,Thread Group WeatherAPI 1-19,text,true,,1497,178,36,36,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Fiji,63,0,0
+1758305226168,104,Forecast,200,OK,Thread Group WeatherAPI 1-91,text,true,,127637,190,36,36,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Ethiopia&days=7,69,0,0
+1758305225675,597,Current Weather,200,OK,Thread Group WeatherAPI 1-98,text,true,,1483,182,36,36,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Bulgaria,252,0,189
+1758305226201,71,Current Weather,200,OK,Thread Group WeatherAPI 1-70,text,true,,1483,180,36,36,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=France,71,0,0
+1758305226228,93,Current Weather,200,OK,Thread Group WeatherAPI 1-95,text,true,,1498,179,35,35,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Gabon,93,0,0
+1758305226247,74,Current Weather,200,OK,Thread Group WeatherAPI 1-64,text,true,,1504,181,35,35,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Georgia,74,0,0
+1758305226273,54,Current Weather,200,OK,Thread Group WeatherAPI 1-70,text,true,,1513,179,35,35,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Ghana,54,0,0
+1758305225878,484,Forecast,200,OK,Thread Group WeatherAPI 1-99,text,true,,126988,187,35,35,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Congo&days=7,322,0,179
+1758305226152,218,Current Weather,400,Bad Request,Thread Group WeatherAPI 1-75,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",713,182,35,35,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Eswatini,218,0,0
+1758305226322,55,Current Weather,200,OK,Thread Group WeatherAPI 1-88,text,true,,1511,182,34,34,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Cameroon,55,0,0
+1758305226322,57,Current Weather,200,OK,Thread Group WeatherAPI 1-11,text,true,,1483,182,34,34,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Bulgaria,57,0,0
+1758305226322,58,Current Weather,200,OK,Thread Group WeatherAPI 1-95,text,true,,1481,180,34,34,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Greece,58,0,0
+1758305226378,67,Current Weather,200,OK,Thread Group WeatherAPI 1-88,text,true,,1535,187,34,34,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Guinea-Bissau,67,0,0
+1758305226378,69,Current Weather,200,OK,Thread Group WeatherAPI 1-72,text,true,,1490,180,34,34,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Turkey,69,0,0
+1758305226380,67,Current Weather,200,OK,Thread Group WeatherAPI 1-11,text,true,,1536,180,34,34,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Guyana,65,0,0
+1758305226322,145,Forecast,200,OK,Thread Group WeatherAPI 1-64,text,true,,127910,189,33,33,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Grenada&days=7,61,0,0
+1758305225997,478,Current Weather,200,OK,Thread Group WeatherAPI 1-61,text,true,,1494,181,33,33,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Algeria,56,0,0
+1758305226076,402,Forecast,200,OK,Thread Group WeatherAPI 1-100,text,true,,126447,193,33,33,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=El+Salvador&days=7,196,0,113
+1758305226273,210,Forecast,200,OK,Thread Group WeatherAPI 1-98,text,true,,126283,189,33,33,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Germany&days=7,74,0,0
+1758305226362,133,Forecast,200,OK,Thread Group WeatherAPI 1-99,text,true,,127910,188,33,33,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Guinea&days=7,69,0,0
+1758305226446,55,Current Weather,200,OK,Thread Group WeatherAPI 1-88,text,true,,1529,182,33,33,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Honduras,55,0,0
+1758305226446,55,Current Weather,200,OK,Thread Group WeatherAPI 1-69,text,true,,1518,185,33,33,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Saint+Lucia,55,0,0
+1758305226446,60,Current Weather,200,OK,Thread Group WeatherAPI 1-77,text,true,,1474,181,33,33,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Vietnam,60,0,0
+1758305226468,57,Current Weather,200,OK,Thread Group WeatherAPI 1-64,text,true,,1512,181,33,33,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Iceland,57,0,0
+1758305226381,147,Forecast,200,OK,Thread Group WeatherAPI 1-95,text,true,,126841,187,33,33,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Haiti&days=7,66,0,0
+1758305226247,294,Forecast,200,OK,Thread Group WeatherAPI 1-19,text,true,,127905,188,33,33,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Gambia&days=7,100,0,0
+1758305226484,57,Current Weather,200,OK,Thread Group WeatherAPI 1-98,text,true,,1476,178,33,33,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Iran,57,0,0
+1758305226502,56,Current Weather,200,OK,Thread Group WeatherAPI 1-88,text,true,,1500,181,33,33,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Ireland,56,0,0
+1758305226495,85,Forecast,200,OK,Thread Group WeatherAPI 1-99,text,true,,125638,186,33,33,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Iraq&days=7,59,0,0
+1758305226525,57,Current Weather,200,OK,Thread Group WeatherAPI 1-50,text,true,,1502,188,33,33,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Czech+Republic,57,0,0
+1758305226448,137,Forecast,200,OK,Thread Group WeatherAPI 1-11,text,true,,125812,189,33,33,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Hungary&days=7,63,0,0
+1758305226507,89,Forecast,200,OK,Thread Group WeatherAPI 1-77,text,true,,126251,189,33,33,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Jamaica&days=7,73,0,0
+1758305226542,54,Current Weather,200,OK,Thread Group WeatherAPI 1-19,text,true,,1495,184,33,33,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Kazakhstan,54,0,0
+1758305226478,124,Forecast,200,OK,Thread Group WeatherAPI 1-100,text,true,,126694,191,32,32,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Indonesia&days=7,63,0,0
+1758305226528,84,Forecast,200,OK,Thread Group WeatherAPI 1-95,text,true,,125433,188,32,32,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Jordan&days=7,57,0,0
+1758305226581,63,Current Weather,200,OK,Thread Group WeatherAPI 1-99,text,true,,1496,180,32,32,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Kosovo,63,0,0
+1758305226585,61,Current Weather,200,OK,Thread Group WeatherAPI 1-11,text,true,,1495,184,32,32,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Kyrgyzstan,59,0,0
+1758305226613,62,Current Weather,200,OK,Thread Group WeatherAPI 1-95,text,true,,1480,181,32,32,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Lebanon,61,0,0
+1758305226559,120,Forecast,200,OK,Thread Group WeatherAPI 1-88,text,true,,126506,190,32,32,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Kiribati&days=7,69,0,0
+1758305226583,96,Forecast,200,OK,Thread Group WeatherAPI 1-50,text,true,,125818,188,32,32,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Kuwait&days=7,63,0,0
+1758305226602,81,Forecast,200,OK,Thread Group WeatherAPI 1-100,text,true,,126463,188,31,31,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Latvia&days=7,60,0,0
+1758305226647,53,Current Weather,200,OK,Thread Group WeatherAPI 1-11,text,true,,1538,181,31,31,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Liberia,53,0,0
+1758305226647,55,Current Weather,200,OK,Thread Group WeatherAPI 1-84,text,true,,1493,185,31,31,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=New+Zealand,53,0,0
+1758305226645,78,Forecast,200,OK,Thread Group WeatherAPI 1-99,text,true,,125902,189,31,31,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Lesotho&days=7,55,0,0
+1758305226676,57,Current Weather,200,OK,Thread Group WeatherAPI 1-95,text,true,,1486,179,31,31,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Libya,57,0,0
+1758305226684,56,Current Weather,200,OK,Thread Group WeatherAPI 1-100,text,true,,1499,183,31,31,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Lithuania,56,0,0
+1758305226703,63,Current Weather,200,OK,Thread Group WeatherAPI 1-84,text,true,,1507,184,31,31,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Madagascar,63,0,0
+1758305226679,96,Forecast,200,OK,Thread Group WeatherAPI 1-88,text,true,,125104,195,31,31,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Liechtenstein&days=7,61,0,0
+1758305226724,57,Current Weather,200,OK,Thread Group WeatherAPI 1-99,text,true,,1490,180,31,31,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Malawi,57,0,0
+1758305226183,608,Forecast,200,OK,Thread Group WeatherAPI 1-78,text,true,,126317,189,31,31,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Finland&days=7,89,0,0
+1758305226742,58,Current Weather,200,OK,Thread Group WeatherAPI 1-100,text,true,,1482,182,31,31,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Maldives,58,0,0
+1758305226734,89,Forecast,200,OK,Thread Group WeatherAPI 1-95,text,true,,127120,190,31,31,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Malaysia&days=7,57,0,0
+1758305226702,131,Forecast,200,OK,Thread Group WeatherAPI 1-11,text,true,,126212,192,30,30,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Luxembourg&days=7,124,0,0
+1758305226776,57,Current Weather,200,OK,Thread Group WeatherAPI 1-88,text,true,,1477,179,30,30,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Malta,57,0,0
+1758305226782,57,Current Weather,200,OK,Thread Group WeatherAPI 1-99,text,true,,1492,190,28,28,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Marshall+Islands,57,0,0
+1758305226801,54,Current Weather,200,OK,Thread Group WeatherAPI 1-100,text,true,,1505,183,28,28,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Mauritius,54,0,0
+1758305226848,58,Current Weather,200,OK,Thread Group WeatherAPI 1-28,text,true,,1492,180,28,28,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Serbia,57,0,0
+1758305226848,58,Current Weather,200,OK,Thread Group WeatherAPI 1-76,text,true,,1496,182,28,28,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Zimbabwe,58,0,0
+1758305226840,84,Forecast,200,OK,Thread Group WeatherAPI 1-99,text,true,,126537,188,28,28,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Mexico&days=7,62,0,0
+1758305226792,150,Forecast,200,OK,Thread Group WeatherAPI 1-78,text,true,,126568,192,28,28,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Mauritania&days=7,65,0,0
+1758305226905,52,Current Weather,200,OK,Thread Group WeatherAPI 1-69,text,true,,1472,179,28,28,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Italy,52,0,0
+1758305226905,55,Current Weather,200,OK,Thread Group WeatherAPI 1-68,text,true,,1494,184,28,28,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Micronesia,55,0,0
+1758305226905,55,Current Weather,200,OK,Thread Group WeatherAPI 1-96,text,true,,1570,183,28,28,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Argentina,55,0,0
+1758305226925,62,Current Weather,200,OK,Thread Group WeatherAPI 1-99,text,true,,1495,182,28,28,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Mongolia,62,0,0
+1758305226907,89,Forecast,200,OK,Thread Group WeatherAPI 1-28,text,true,,125756,188,28,28,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Monaco&days=7,57,0,0
+1758305226958,54,Current Weather,200,OK,Thread Group WeatherAPI 1-69,text,true,,1500,181,28,28,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Morocco,54,0,0
+1758305226961,53,Current Weather,200,OK,Thread Group WeatherAPI 1-96,text,true,,1499,184,28,28,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Mozambique,53,0,0
+1758305226943,96,Forecast,200,OK,Thread Group WeatherAPI 1-78,text,true,,126010,192,28,28,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Montenegro&days=7,61,0,0
+1758305226961,84,Forecast,200,OK,Thread Group WeatherAPI 1-68,text,true,,127992,189,28,28,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Myanmar&days=7,59,0,0
+1758305226988,57,Current Weather,200,OK,Thread Group WeatherAPI 1-99,text,true,,1499,181,28,28,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Namibia,57,0,0
+1758305226767,288,Forecast,200,OK,Thread Group WeatherAPI 1-84,text,true,,126881,186,27,27,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Mali&days=7,153,0,0
+1758305227013,56,Current Weather,200,OK,Thread Group WeatherAPI 1-69,text,true,,1487,179,27,27,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Nepal,56,0,0
+1758305226996,87,Forecast,200,OK,Thread Group WeatherAPI 1-28,text,true,,126782,187,27,27,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Nauru&days=7,59,0,0
+1758305227046,60,Current Weather,200,OK,Thread Group WeatherAPI 1-68,text,true,,1513,183,27,27,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Nicaragua,59,0,0
+1758305227046,60,Current Weather,200,OK,Thread Group WeatherAPI 1-77,text,true,,1500,178,27,27,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Laos,59,0,0
+1758305227041,84,Forecast,200,OK,Thread Group WeatherAPI 1-78,text,true,,127126,193,25,25,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=New+Zealand&days=7,64,0,0
+1758305227070,162,Current Weather,200,OK,Thread Group WeatherAPI 1-69,text,true,,1528,181,25,25,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Nigeria,162,0,0
+1758305227145,88,Current Weather,200,OK,Thread Group WeatherAPI 1-85,text,true,,1544,193,25,25,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Trinidad+and+Tobago,88,0,0
+1758305227083,149,Current Weather,200,OK,Thread Group WeatherAPI 1-28,text,true,,1496,185,25,25,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=North+Korea,149,0,0
+1758305227145,87,Current Weather,200,OK,Thread Group WeatherAPI 1-89,text,true,,1477,181,25,25,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Tunisia,87,0,0
+1758305227126,134,Forecast,200,OK,Thread Group WeatherAPI 1-78,text,true,,126343,197,23,23,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=North+Macedonia&days=7,108,0,0
+1758305227233,62,Current Weather,200,OK,Thread Group WeatherAPI 1-70,text,true,,1522,183,23,23,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Guatemala,62,0,0
+1758305227233,62,Current Weather,200,OK,Thread Group WeatherAPI 1-85,text,true,,1485,182,23,23,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Pakistan,62,0,0
+1758305227233,62,Current Weather,200,OK,Thread Group WeatherAPI 1-69,text,true,,1480,180,23,23,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Norway,62,0,0
+1758305227234,61,Current Weather,200,OK,Thread Group WeatherAPI 1-61,text,true,,1474,179,23,23,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=India,61,0,0
+1758305227261,53,Current Weather,200,OK,Thread Group WeatherAPI 1-78,text,true,,1517,179,22,22,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Palau,53,0,0
+1758305227056,260,Forecast,200,OK,Thread Group WeatherAPI 1-84,text,true,,126574,187,21,21,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Niger&days=7,83,0,0
+1758305224217,3127,Current Weather,200,OK,Thread Group WeatherAPI 1-51,text,true,,1492,181,21,21,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Myanmar,3127,0,0
+1758305227233,119,Current Weather,200,OK,Thread Group WeatherAPI 1-1,text,true,,1491,184,20,20,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Uzbekistan,119,0,0
+1758305227297,62,Current Weather,200,OK,Thread Group WeatherAPI 1-61,text,true,,1480,183,20,20,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Palestine,62,0,0
+1758305227146,213,Current Weather,200,OK,Thread Group WeatherAPI 1-80,text,true,,1497,180,20,20,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Sweden,213,0,152
+1758305227297,65,Current Weather,200,OK,Thread Group WeatherAPI 1-76,text,true,,1496,181,20,20,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Moldova,63,0,0
+1758305227316,55,Current Weather,200,OK,Thread Group WeatherAPI 1-84,text,true,,1507,182,20,20,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Paraguay,55,0,0
+1758305227297,102,Forecast,200,OK,Thread Group WeatherAPI 1-85,text,true,,127697,198,20,20,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Papua+New+Guinea&days=7,68,0,0
+1758305227353,66,Current Weather,200,OK,Thread Group WeatherAPI 1-98,text,true,,1489,179,20,20,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Kenya,66,0,0
+1758305227297,128,Forecast,200,OK,Thread Group WeatherAPI 1-69,text,true,,125474,188,20,20,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Norway&days=7,70,0,0
+1758305227353,102,Current Weather,200,OK,Thread Group WeatherAPI 1-1,text,true,,1499,178,20,20,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Peru,102,0,0
+1758305227399,56,Current Weather,200,OK,Thread Group WeatherAPI 1-85,text,true,,1479,179,20,20,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Qatar,56,0,0
+1758305227399,58,Current Weather,200,OK,Thread Group WeatherAPI 1-74,text,true,,1510,178,20,20,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Mali,58,0,0
+1758305227360,165,Forecast,200,OK,Thread Group WeatherAPI 1-61,text,true,,125553,191,20,20,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Palestine&days=7,65,0,0
+1758305227426,107,Forecast,200,OK,Thread Group WeatherAPI 1-69,text,true,,126404,188,19,19,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Russia&days=7,83,0,0
+1758305227456,77,Current Weather,200,OK,Thread Group WeatherAPI 1-1,text,true,,1488,180,19,19,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Rwanda,77,0,0
+1758305227456,77,Current Weather,200,OK,Thread Group WeatherAPI 1-90,text,true,,1487,196,19,19,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Bosnia+and+Herzegovina,77,0,0
+1758305227456,98,Forecast,200,OK,Thread Group WeatherAPI 1-85,text,true,,127763,203,18,18,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Saint+Kitts+and+Nevis&days=7,77,0,0
+1758305227476,78,Current Weather,200,OK,Thread Group WeatherAPI 1-87,text,true,,1491,178,18,18,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Chad,78,0,0
+1758305227505,93,Current Weather,200,OK,Thread Group WeatherAPI 1-20,text,true,,1480,181,17,17,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Lebanon,93,0,0
+1758305227505,93,Current Weather,200,OK,Thread Group WeatherAPI 1-47,text,true,,1528,182,17,17,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Dominica,93,0,0
+1758305227534,70,Current Weather,200,OK,Thread Group WeatherAPI 1-1,text,true,,1488,179,16,16,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Samoa,70,0,0
+1758305227420,190,Current Weather,200,OK,Thread Group WeatherAPI 1-98,text,true,,1487,181,15,15,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Romania,190,0,0
+1758305227372,251,Forecast,200,OK,Thread Group WeatherAPI 1-84,text,true,,125733,190,15,15,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Portugal&days=7,64,0,0
+1758305227555,68,Current Weather,200,OK,Thread Group WeatherAPI 1-87,text,true,,1494,184,15,15,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=San+Marino,68,0,0
+1758305227534,95,Forecast,200,OK,Thread Group WeatherAPI 1-90,text,true,,128109,214,15,15,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Saint+Vincent+and+the+Grenadines&days=7,70,0,0
+1758305227360,302,Forecast,200,OK,Thread Group WeatherAPI 1-80,text,true,,128419,193,15,15,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Philippines&days=7,76,0,0
+1758305227612,65,Current Weather,200,OK,Thread Group WeatherAPI 1-98,text,true,,1485,186,15,15,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Saudi+Arabia,61,0,0
+1758305227612,66,Current Weather,200,OK,Thread Group WeatherAPI 1-96,text,true,,1500,185,15,15,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Netherlands,66,0,0
+1758305227612,66,Current Weather,200,OK,Thread Group WeatherAPI 1-76,text,true,,1473,180,15,15,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Poland,65,0,0
+1758305227623,60,Current Weather,200,OK,Thread Group WeatherAPI 1-84,text,true,,1510,181,15,15,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Senegal,60,0,0
+1758305227599,96,Forecast,200,OK,Thread Group WeatherAPI 1-47,text,true,,128149,203,15,15,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Sao+Tome+and+Principe&days=7,62,0,0
+1758305227624,85,Forecast,200,OK,Thread Group WeatherAPI 1-87,text,true,,125584,188,14,14,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Serbia&days=7,63,0,0
+1758305227678,57,Current Weather,200,OK,Thread Group WeatherAPI 1-74,text,true,,1518,185,13,13,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Saint+Lucia,57,0,0
+1758305227678,57,Current Weather,200,OK,Thread Group WeatherAPI 1-98,text,true,,1491,183,13,13,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Singapore,57,0,0
+1758305227679,66,Current Weather,200,OK,Thread Group WeatherAPI 1-96,text,true,,1493,182,13,13,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Slovakia,66,0,0
+1758305227709,56,Current Weather,200,OK,Thread Group WeatherAPI 1-83,text,true,,1519,181,13,13,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Bahamas,56,0,0
+1758305227662,121,Forecast,200,OK,Thread Group WeatherAPI 1-80,text,true,,128156,194,13,13,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Sierra+Leone&days=7,63,0,0
+1758305227736,59,Current Weather,200,OK,Thread Group WeatherAPI 1-98,text,true,,1498,186,13,13,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=South+Africa,55,0,0
+1758305227746,59,Current Weather,200,OK,Thread Group WeatherAPI 1-96,text,true,,1483,185,13,13,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=South+Korea,57,0,0
+1758305227783,59,Current Weather,200,OK,Thread Group WeatherAPI 1-90,text,true,,1507,184,13,13,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Seychelles,59,0,0
+1758305227783,59,Current Weather,200,OK,Thread Group WeatherAPI 1-100,text,true,,1494,184,13,13,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Micronesia,59,0,0
+1758305227806,58,Current Weather,200,OK,Thread Group WeatherAPI 1-96,text,true,,1489,179,12,12,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Sudan,55,0,0
+1758305227679,215,Forecast,200,OK,Thread Group WeatherAPI 1-76,text,true,,125624,190,12,12,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Slovenia&days=7,90,0,0
+1758305227796,102,Forecast,200,OK,Thread Group WeatherAPI 1-98,text,true,,128619,191,12,12,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Sri+Lanka&days=7,64,0,0
+1758305227843,55,Current Weather,200,OK,Thread Group WeatherAPI 1-100,text,true,,1524,182,12,12,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Suriname,55,0,0
+1758305227843,55,Current Weather,200,OK,Thread Group WeatherAPI 1-94,text,true,,1491,179,12,12,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Egypt,55,0,0
+1758305227880,58,Current Weather,200,OK,Thread Group WeatherAPI 1-64,text,true,,1482,179,12,12,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Japan,58,0,0
+1758305227880,60,Current Weather,200,OK,Thread Group WeatherAPI 1-66,text,true,,1489,179,11,11,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Sudan,60,0,0
+1758305227766,185,Forecast,200,OK,Thread Group WeatherAPI 1-83,text,true,,126592,193,11,11,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=South+Sudan&days=7,61,0,0
+1758305227894,57,Current Weather,200,OK,Thread Group WeatherAPI 1-76,text,true,,1475,185,11,11,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Switzerland,57,0,0
+1758305227736,221,Forecast,200,OK,Thread Group WeatherAPI 1-74,text,true,,127628,189,11,11,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Somalia&days=7,76,0,0
+1758305227899,87,Forecast,200,OK,Thread Group WeatherAPI 1-98,text,true,,125107,187,11,11,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Syria&days=7,57,0,0
+1758305227940,55,Current Weather,200,OK,Thread Group WeatherAPI 1-80,text,true,,1511,179,10,10,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Spain,55,0,0
+1758305227951,64,Current Weather,200,OK,Thread Group WeatherAPI 1-83,text,true,,1497,182,10,10,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Thailand,64,0,0
+1758305227941,92,Forecast,200,OK,Thread Group WeatherAPI 1-66,text,true,,125803,190,10,10,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Tanzania&days=7,59,0,0
+1758305227952,92,Forecast,200,OK,Thread Group WeatherAPI 1-76,text,true,,125836,193,10,10,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Timor-Leste&days=7,67,0,0
+1758305227996,65,Current Weather,200,OK,Thread Group WeatherAPI 1-80,text,true,,1513,179,10,10,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Tonga,65,0,0
+1758305227996,66,Current Weather,200,OK,Thread Group WeatherAPI 1-94,text,true,,1481,184,10,10,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Tajikistan,65,0,0
+1758305228010,55,Current Weather,200,OK,Thread Group WeatherAPI 1-100,text,true,,1491,180,10,10,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Taiwan,55,0,0
+1758305227865,206,Forecast,200,OK,Thread Group WeatherAPI 1-96,text,true,,125633,188,10,10,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Sweden&days=7,77,0,0
+1758305228033,71,Current Weather,200,OK,Thread Group WeatherAPI 1-66,text,true,,1477,181,10,10,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Tunisia,70,0,0
+1758305228016,95,Forecast,200,OK,Thread Group WeatherAPI 1-83,text,true,,126987,201,10,10,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Trinidad+and+Tobago&days=7,55,0,0
+1758305228048,64,Current Weather,200,OK,Thread Group WeatherAPI 1-74,text,true,,1489,178,10,10,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Togo,64,0,0
+1758305228062,55,Current Weather,200,OK,Thread Group WeatherAPI 1-80,text,true,,1485,186,10,10,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Turkmenistan,55,0,0
+1758305228045,87,Forecast,200,OK,Thread Group WeatherAPI 1-76,text,true,,125139,188,10,10,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Turkey&days=7,66,0,0
+1758305228081,60,Current Weather,200,OK,Thread Group WeatherAPI 1-84,text,true,,1506,189,10,10,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Solomon+Islands,56,0,0
+1758305228066,79,Forecast,200,OK,Thread Group WeatherAPI 1-100,text,true,,125852,188,9,9,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Uganda&days=7,57,0,0
+1758305228112,59,Current Weather,200,OK,Thread Group WeatherAPI 1-83,text,true,,1535,188,8,8,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=United+Kingdom,59,0,0
+1758305228120,66,Current Weather,200,OK,Thread Group WeatherAPI 1-94,text,true,,1509,180,8,8,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Tuvalu,66,0,0
+1758305228132,56,Current Weather,200,OK,Thread Group WeatherAPI 1-76,text,true,,1491,184,8,8,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Uzbekistan,56,0,0
+1758305228118,81,Forecast,200,OK,Thread Group WeatherAPI 1-80,text,true,,126904,189,8,8,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Uruguay&days=7,64,0,0
+1758305228105,101,Forecast,200,OK,Thread Group WeatherAPI 1-66,text,true,,125801,202,8,8,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=United+Arab+Emirates&days=7,77,0,0
+1758305228158,54,Current Weather,200,OK,Thread Group WeatherAPI 1-96,text,true,,1489,181,8,8,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Ukraine,54,0,0
+1758305228189,100,Current Weather,200,OK,Thread Group WeatherAPI 1-76,text,true,,1527,183,8,8,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Venezuela,99,0,0
+1758305228179,109,Current Weather,200,OK,Thread Group WeatherAPI 1-74,text,true,,1526,187,8,8,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=United+States,109,0,0
+1758305228228,64,Current Weather,200,OK,Thread Group WeatherAPI 1-66,text,true,,1475,179,7,7,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Yemen,64,0,0
+1758305228208,84,Current Weather,200,OK,Thread Group WeatherAPI 1-94,text,true,,1487,186,7,7,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Vatican+City,82,0,0
+1758305228199,158,Forecast,200,OK,Thread Group WeatherAPI 1-80,text,true,,127151,189,7,7,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Vietnam&days=7,97,0,0
+1758305228172,187,Forecast,200,OK,Thread Group WeatherAPI 1-83,text,true,,127857,189,7,7,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Vanuatu&days=7,120,0,0
+1758305228213,150,Forecast,200,OK,Thread Group WeatherAPI 1-96,text,true,,125414,188,6,6,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Zambia&days=7,83,0,0
+1758305228294,69,Current Weather,200,OK,Thread Group WeatherAPI 1-94,text,true,,1555,181,6,6,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=country,69,0,0
+1758305228290,95,Current Weather,200,OK,Thread Group WeatherAPI 1-74,text,true,,1496,182,5,5,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Zimbabwe,95,0,0
+1758305228294,97,Forecast,200,OK,Thread Group WeatherAPI 1-66,text,true,,125055,193,5,5,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Afghanistan&days=7,69,0,0
+1758305228357,92,Current Weather,200,OK,Thread Group WeatherAPI 1-80,text,true,,1483,181,4,4,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Albania,92,0,0
+1758305228386,64,Current Weather,200,OK,Thread Group WeatherAPI 1-74,text,true,,1499,181,4,4,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Andorra,64,0,0
+1758305228364,126,Forecast,200,OK,Thread Group WeatherAPI 1-94,text,true,,126020,189,4,4,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Algeria&days=7,86,0,0
+1758305228450,80,Current Weather,200,OK,Thread Group WeatherAPI 1-80,text,true,,1489,180,4,4,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Angola,80,0,0
+1758305228490,53,Current Weather,200,OK,Thread Group WeatherAPI 1-94,text,true,,1570,183,3,3,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Argentina,53,0,0
+1758305228450,99,Forecast,200,OK,Thread Group WeatherAPI 1-74,text,true,,127886,201,2,2,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Antigua+and+Barbuda&days=7,80,0,0
+1758305228549,87,Forecast,200,OK,Thread Group WeatherAPI 1-74,text,true,,125979,189,2,2,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Armenia&days=7,67,0,0
+1758305227940,4643,Current Weather,200,OK,Thread Group WeatherAPI 1-97,text,true,,1498,181,1,1,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Estonia,4643,0,0
+1758305232585,83,Current Weather,200,OK,Thread Group WeatherAPI 1-97,text,true,,1521,183,1,1,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Australia,83,0,0
+1758305232669,60,Current Weather,200,OK,Thread Group WeatherAPI 1-97,text,true,,1476,181,1,1,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Austria,60,0,0
+1758305232730,89,Forecast,200,OK,Thread Group WeatherAPI 1-97,text,true,,126553,192,1,1,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Azerbaijan&days=7,58,0,0
+1758305232820,53,Current Weather,200,OK,Thread Group WeatherAPI 1-97,text,true,,1519,181,1,1,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Bahamas,53,0,0
+1758305232874,85,Forecast,200,OK,Thread Group WeatherAPI 1-97,text,true,,125901,189,1,1,https://api.weatherapi.com/v1/forecast.json?&key=cbcbd369be7746678b430028251909&q=Bahrain&days=7,63,0,0
+1758305232960,57,Current Weather,200,OK,Thread Group WeatherAPI 1-97,text,true,,1487,184,1,1,https://api.weatherapi.com/v1/current.json?&key=cbcbd369be7746678b430028251909&q=Bangladesh,57,0,0
