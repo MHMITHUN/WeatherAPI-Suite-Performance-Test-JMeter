@@ -6,7 +6,7 @@
 
 ### 1. Project Objective
 
-This project, designed by an SQA professional, demonstrates a robust and scalable performance test plan for the `weatherapi.com` API using Apache JMeter. The goal is to simulate realistic user loads and analyze system performance, focusing on dynamic test execution, data parameterization, and advanced validation.
+This project, designed by Md. Mahamudul Hasan, demonstrates a robust and scalable performance test plan for the `weatherapi.com` API using Apache JMeter. The goal is to simulate realistic user loads and analyze system performance, focusing on dynamic test execution, data parameterization, and advanced validation.
 
 ---
 
